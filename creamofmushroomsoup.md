@@ -1,5 +1,5 @@
- # Cream of Mushroom Soup 
- ### ~4 servings, 20 min
+# Cream of Mushroom Soup 
+### ~4 servings, 20 min
 ## Ingredients:
 * 1/2 onion
 * 1-2 cloves of garlic 
