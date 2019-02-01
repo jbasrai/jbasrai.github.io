@@ -37,7 +37,7 @@ When you view fitness this way and then establish good short-term goals right ab
 
 3) Choose workouts targeting that area.
 
-*I'll do ARCing exercises a couple times a week to build up my aerobic endurance. I'll also mix in 4x4s to improve my anaerobic endurance and get me through the pumpy cruxes.*
+*I'll do ARCing exercises a couple times a week to build up my aerobic endurance. I'll also mix in 4x4s to improve my anaerobic endurance and to get me through the pumpy cruxes.*
 
 ## Workouts
 
