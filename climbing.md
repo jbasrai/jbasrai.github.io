@@ -1,3 +1,5 @@
+*31 Jan 2019*
+
 # Training
 
 Until recently I thought that training for climbing was lame. I dislike taking shortcuts, and hated that doing isolated workouts could substitute for good movement and mental skills. It felt too goal-oriented for something I wanted to keep pure and simple and fun.
