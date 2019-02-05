@@ -1,0 +1,53 @@
+<!doctype html>
+<html>
+	<body style="background-image: url(./stars.jpg); color: white;">
+		<h1 id="title" style="font-family: Papyrus, Times New Roman; font-size: 72px; text-align: center; color: crimson;">
+			<img src="./taz.svg" height="120px;"/>
+			Jauhar's Party
+			<img style="margin-left: 40px;" src="./marvin.svg" height="120px;"/>
+		</h1>
+
+		<div style="font-family: Comic Sans MS, Times New Roman; display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
+			<div style="font-size: 36px;">
+				<p>Let's hang out before I move!!</p>
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/eTT1re5NI_Y?start=60&autoplay=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			</div>
+
+			<div style="background-color: blue; color: yellow;">
+				<h2 style="font-family: Times New Roman; font-size: 48px;">Entertainment!!!!</h2>
+				<ul>
+					<li>
+						<p style="font-family: Comic Sans MS, Times New Roman; font-size: 32px;">food!! (free)</p>
+					</li>
+					<li>
+						<p style="font-family: Comic Sans MS, Times New Roman; font-size: 32px;">PEOPLE</p>
+					</li>
+					<li>
+						<p style="font-family: Comic Sans MS, Times New Roman; font-size: 32px;">VIDEO GAMES</p>
+					</li>
+					<li>
+						<p style="font-family: Comic Sans MS, Times New Roman; font-size: 32px;">sofa</p>
+					</li>
+				</ul>
+			</div>
+			<div style="background-color: lime; color: fuchsia">
+				<h2 style="font-family: Times New Roman; font-size: 48px;">Where & When???</h2>
+				<p style="font-family: Comic Sans MS, Times New Roman; font-size: 32px;">5pm SUNDAY feb 10 2019</p>
+				<p style="font-family: Comic Sans MS, Times New Roman; font-size: 32px;">my HOUSE!</p>
+				<a href="https://goo.gl/maps/LjsRzj4nppr">
+					<p style="font-family: Comic Sans MS, Times New Roman; font-size: 32px;">1057 Euclid Ave NE</p>
+				</a>
+			</div>
+		</div>
+	</body>
+	<script>
+		var colors = [ 'crimson', 'aqua', 'gold' ];
+		var index = 0;
+
+		setInterval(function() {
+			var title = document.getElementById('title');
+			title.style.color = colors[index % 3];
+			index++;
+		}, 1000);
+	</script>
+</html>
