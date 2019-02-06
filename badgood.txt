@@ -1,5 +1,0 @@
-bad;good
-
-wobbly;stable
-fear;confidence
-opaqueness;clarity
