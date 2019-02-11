@@ -63,18 +63,18 @@ This is the climber's bread and butter workout. It's the most efficient way to i
 
 #### ARCing
 
-<img src="./pics/aerobic1.jpg" />
-<img src="./pics/aerobic2.jpg" />
-<img src="./pics/aerobic3.jpg" />
+<img src="./aerobic1.jpg" />
+<img src="./aerobic2.jpg" />
+<img src="./aerobic3.jpg" />
 
 ### 4) Anaerobic Endurance
 
 #### 4x4s
 
 
-<img src="./pics/anaerobic1.jpg" />
-<img src="./pics/anaerobic2.jpg" />
-<img src="./pics/anaerobic3.jpg" />
+<img src="./anaerobic1.jpg" />
+<img src="./anaerobic2.jpg" />
+<img src="./anaerobic3.jpg" />
 
 ### 5) Stamina
 
