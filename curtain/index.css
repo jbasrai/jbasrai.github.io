@@ -33,6 +33,19 @@ html, body, h1, h2, h3, h4, p, a {
 	color: black;
 }
 
+body {
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
 .container {
 	display: flex;
 	flex-direction: column;
@@ -40,8 +53,6 @@ html, body, h1, h2, h3, h4, p, a {
 }
 
 .page {
-	display: flex;
-	flex-direction: column;
 	height: 100vh;
 	justify-content: space-around;
 }
@@ -77,9 +88,12 @@ p {
 	font-size: 0.9em;
 }
 
+a {
+	display: inline-block;
+}
+
 .purchase > a {
 	font-size: 0.9em;
-	display: inline-block;
 	border: 2px solid black;
 	padding: 0.4em;
 }
@@ -97,6 +111,10 @@ p {
 	display: flex;
 	flex-direction: column;
 	align-items: center;
+}
+
+.hidden {
+	opacity: 0;
 }
 
 .aaa {
@@ -141,6 +159,6 @@ p {
 	width: 100%;
 }
 
-.social > i:not(:last-child) {
+.social > *:not(:last-child) {
 	margin-right: 1em;
 }
