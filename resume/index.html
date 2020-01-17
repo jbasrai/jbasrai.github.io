@@ -9,6 +9,14 @@
         padding: 0;
       }
 
+      li > .ul2 {
+          padding-top: 4px;
+      }
+
+      .ul2 {
+          padding-left: 40px
+      }
+
       body {
         width: 660px;
         font-family: Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
@@ -98,6 +106,10 @@
         margin-bottom: 5px;
       }
 
+      .section:not(:first-child) {
+          padding-top: 5px;
+      }
+
       .item {
         margin-bottom: 4px;
       }
@@ -136,12 +148,23 @@
         </div>
         <div class="info">
           <h4>Software Engineer</h4>
-          <div>October 2017 - Present</div>
+          <div>October 2017 - January 2019</div>
         </div>
         <ul>
-            <li>Contributed to the core tournament platform, connecting competitors, spectators, and tournament organizers.
-            <li>Made developers happier and more productive by improving front-end infrastructure. Introduced React state management tools + patterns and optimized the front-end build for development.</li>
-            <li>Did a <a href="./options.html">talk</a> on optional values, with the goal of introducing useful concepts from typed functional languages.</li>
+            <li>Worked on features for the core platform.
+                <ul class="ul2">
+                    <li><a href="https://help.smash.gg/en/articles/1987877-online-event-check-in">Live event check-in</a></li>
+                    <li><a href="https://help.smash.gg/en/articles/2472270-registering-for-an-event">Tournament registration</a></li>
+                </ul>
+            </li>
+            <li>Improved internal front-end tools and build system.
+                <ul class="ul2">
+                    <li>Fluxible to Redux migration (partial, deprecated in favor of Apollo/GraphQL)</li>
+                    <li><a href="./options.html">Talk on optional values</a> as a best practice</li>
+                    <li>"Hot Module Replacement" with Webpack, tightening the dev feedback loop</li>
+                    <li>Front-end build improvements to address tradeoffs between deploy times, payload sizes, and complexity of build configuration</li>
+                </ul>
+            </li>
         </ul>
       </div>
 
@@ -233,8 +256,8 @@
           <div>Irvine, CA</div>
         </div>
         <div class="info">
-          <h4>Undergraduate Computer Science (Incomplete)</h4>
-          <div>September 2010 - June 2014</div>
+          <h4>Undergraduate Computer Science</h4>
+          <div>September 2010 - June 2014; September 2019 - December 2019</div>
         </div>
     </div>
 

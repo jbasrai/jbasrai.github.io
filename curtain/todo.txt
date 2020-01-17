@@ -1,0 +1,6 @@
+title text narrower on mobile
+publisher info
+scroll transition
+description
+	author + title
+stylize author name

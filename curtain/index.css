@@ -1,0 +1,152 @@
+@font-face {
+	font-family: "fico";
+	src: url("../fonts/fico.eot");
+	src: url("../fonts/fico.eot?#iefix") format("embedded-opentype"),
+ 	     url("../fonts/fico.woff") format("woff"),
+	     url("../fonts/fico.ttf") format("truetype"),
+	     url("../fonts/fico.svg#fico") format("svg");
+}
+
+.icon {
+	display: inline-block;
+}
+
+.icon:before {
+	font-family: fico;
+	font-weight: normal !important;
+	font-style: normal !important;
+	text-transform: none !important;
+	vertical-align: baseline;
+	-webkit-font-smoothing: antialiased;
+}
+
+.icon-facebook:before { content: "\f13a"; }
+.icon-camera:before { content: "\f10d"; }
+.icon-mail:before { content: "\f125"; }
+
+html, body, h1, h2, h3, h4, p, a {
+	margin: 0;
+	padding: 0;
+	font-family: 'Inria Serif', serif;
+	line-height: 1em;
+	text-decoration: none;
+	color: black;
+}
+
+html, body {
+	height: 100%;
+	width: 100%;
+}
+
+.page {
+	min-height: 100%;
+	min-width: 100%;
+}
+
+.spacer {
+	height: 0.75em;
+}
+
+.title {
+	text-align: center;
+}
+
+h1 {
+	font-size: 2.5em;
+}
+
+h2 {
+	font-size: 0.7em;
+	text-transform: uppercase;
+	letter-spacing: 0.1em;
+}
+
+h3 {
+	font-size: 1em;
+}
+
+h4 {
+	font-size: 1em;
+	text-transform: uppercase;
+}
+
+p {
+	font-size: 0.9em;
+}
+
+.purchase > a {
+	font-size: 0.9em;
+	display: inline-block;
+	border: 2px solid black;
+	padding: 0.4em;
+}
+
+.purchase > a:hover {
+	color: #bbbcbe;
+	border-color: #bbbcbe;
+}
+
+.page {
+	display: flex;
+	justify-content: center;
+}
+
+.page > div {
+	justify-content: space-around;
+}
+
+.content {
+	max-width: 30em;
+	box-sizing: border-box;
+	padding: 0px 15px;
+
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.aaa {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.cover {
+	width: 225px;
+	position: relative;
+	right: 25px;
+}
+
+.quote {
+	color: gray;
+	font-size: 0.8em;
+	font-style: italic;
+}
+
+.quote::before {
+	content: "\201C";
+	font-size: 1.5em;
+	margin-right: 0.3em;
+}
+
+.quote::after {
+	content: "\201D";
+	font-size: 1.5em;
+	margin-left: 0.3em;
+}
+
+.author {
+	border: 1px solid black;
+	width: 225px;
+	height: 300px;
+}
+
+.footer {
+	height: 10px;
+	background-color: hotpink;
+	width: 100%;
+}
+
+.social > i:not(:last-child) {
+	margin-right: 1em;
+}
