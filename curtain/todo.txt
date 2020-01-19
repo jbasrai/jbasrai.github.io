@@ -1,4 +1,5 @@
 title text narrower on mobile
+flat book cover?
 publisher info
 scroll transition
 description
