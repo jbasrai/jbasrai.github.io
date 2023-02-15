@@ -1,4 +1,4 @@
-- [clara](./clara/)
-- [nate](./nate/)
-- [nathaniel](./nathaniel/)
-- [hailee](./hailee/)
+- [clara](/clara/)
+- [nate](/nate/)
+- [nathaniel](/nathaniel/)
+- [hailee](/hailee/)
