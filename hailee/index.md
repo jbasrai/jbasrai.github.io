@@ -1,3 +1,5 @@
 # Hailee's Mailbox
 
-## Not ready yet, check back soon
+## 2/14
+- [ear training](./2-14-hailee.mp3)
+- [yankee doodle](./yankee-g.mp3)
