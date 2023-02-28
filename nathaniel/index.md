@@ -2,8 +2,8 @@
 
 ## 2/27
 - [audio note](./2-27.mp3)
-- [lesson sheet #1](./2-17-1.jpg)
-- [lesson sheet #2](./2-17-2.jpg)
+- [lesson sheet #1](./2-27-1.jpg)
+- [lesson sheet #2](./2-27-2.jpg)
 
 ### Listen to these recordings by Jerry Lee Lewis
 - [money](https://www.youtube.com/watch?v=Ywz9OOGvS8M)
