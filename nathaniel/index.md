@@ -1,5 +1,17 @@
 # Nathaniel's Mailbox
 
+## 2/27
+- [audio note](./2-27.mp3)
+- [lesson sheet #1](./2-17-1.jpg)
+- [lesson sheet #2](./2-17-2.jpg)
+
+### Listen to these recordings by Jerry Lee Lewis
+- [money](https://www.youtube.com/watch?v=Ywz9OOGvS8M)
+- [as long as i live](https://www.youtube.com/watch?v=AHHo4T1_q4A)
+- [hillbilly fever](https://www.youtube.com/watch?v=w_YMyI910X0) - this has a guitar solo that would be cool to show to Israel
+- [break-up](https://www.youtube.com/watch?v=KkQeVWHteY4)
+- [what'd i say](https://www.youtube.com/watch?v=JfJArfwTcZk)
+
 ## 2/13
 - [lesson sheet #1](./2-13-sheet1.jpg)
 - [lesson sheet #2](./2-13-sheet2.jpg)
