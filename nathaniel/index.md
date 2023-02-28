@@ -8,7 +8,7 @@
 ### Listen to these recordings by Jerry Lee Lewis
 - [money](https://www.youtube.com/watch?v=Ywz9OOGvS8M)
 - [as long as i live](https://www.youtube.com/watch?v=AHHo4T1_q4A)
-- [hillbilly fever](https://www.youtube.com/watch?v=w_YMyI910X0) - this has a guitar solo that would be cool to show to Israel
+- [hillbilly fever](https://www.youtube.com/watch?v=w_YMyI910X0) - has a guitar solo you could show Israel
 - [break-up](https://www.youtube.com/watch?v=KkQeVWHteY4)
 - [what'd i say](https://www.youtube.com/watch?v=JfJArfwTcZk)
 
