@@ -5,7 +5,11 @@
 - [lesson sheet #1](./2-27-1.jpg)
 - [lesson sheet #2](./2-27-2.jpg)
 
-### Listen to these recordings by Jerry Lee Lewis
+#### When The Saints Go Marching In
+- [louis armstrong](https://www.youtube.com/watch?v=wyLjbMBpGDA)
+- [doreen ketchens](https://www.youtube.com/watch?v=L8ydGKtLRJw)
+
+#### Listen to these recordings by Jerry Lee Lewis
 - [money](https://www.youtube.com/watch?v=Ywz9OOGvS8M)
 - [as long as i live](https://www.youtube.com/watch?v=AHHo4T1_q4A)
 - [hillbilly fever](https://www.youtube.com/watch?v=w_YMyI910X0) - has a guitar solo you could show Israel
