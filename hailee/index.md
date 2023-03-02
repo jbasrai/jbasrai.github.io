@@ -4,7 +4,7 @@
 - [a singer using vocal runs](https://www.youtube.com/watch?v=S2V9nZ465Co), notice how she holds out a single word and turns it into a long stream of notes
 - [more vocal runs](https://www.youtube.com/watch?v=G0hYxuDav0g)
 - [a bass player using our same 1-5 texture](https://www.youtube.com/watch?v=VTLz4hr18vE), notice that the mandolin player (the one with his back to us) is playing chords on the offbeat, just like we're doing
-- [a piano player using the same texture](https://youtu.be/VtQpFzu-unE?t=179)
+- [a piano player using the same texture](https://youtu.be/VtQpFzu-unE?t=183)
 
 
 ## 2/21
