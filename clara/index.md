@@ -1,5 +1,9 @@
 # Clara's Mailbox
 
+## 2/28
+- [i'm a little teapot](./teapot-c.mp3) (finish learning melody)
+- [yankee doodle](./yankee-c.mp3) (play chords along to track)
+
 ## 2/21
 - [ear training](./2-21 clara.mp3)
 
