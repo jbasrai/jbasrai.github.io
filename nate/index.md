@@ -1,5 +1,8 @@
 # Nate's Mailbox
 
+## 3/11
+- [how creative limitations shaped ocarina of time's music](https://www.youtube.com/watch?v=_SeY_Gss2CY), don't worry too much about the vocab, just let it sink in
+
 ## 2/21
 - [ear training](./2-21 nate.mp3)
 
