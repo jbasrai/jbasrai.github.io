@@ -3,8 +3,8 @@
 ## 3/20
 
 - [amazing slow downer](https://www.ronimusic.com/) download this app, and starting using it with the files below
-- [hyrule castle](./hyrule\ castle.m4a)
-- [when the saints go marching in](./when\ the\ saints\ go\ marching\ in.m4a)
+- [hyrule castle](./hyrule_castle.m4a)
+- [when the saints go marching in](./when_the_saints_go_marching_in.m4a)
 
 ## 2/27
 - [audio note](./2-27.mp3)
