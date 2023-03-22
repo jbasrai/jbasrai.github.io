@@ -1,6 +1,7 @@
 # Hailee's Mailbox
 
 ## 3/21
+- ** I changed my mind about using Amazing Slow Downer -- don't worry about it for now!! Instead, I'll upload parts of the songs at different speeds
 - [good morning - A section](./good_morning_a100.mp3)
 - [good morning - B section - 100% speed](./good_morning_b100.mp3)
 - [good morning - B section - 50% speed](./good_morning_b50.mp3)
