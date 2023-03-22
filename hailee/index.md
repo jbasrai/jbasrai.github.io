@@ -1,5 +1,12 @@
 # Hailee's Mailbox
 
+## 3/21
+- [good morning - A section](./good_morning_a100.mp3)
+- [good morning - B section - 100% speed](./good_morning_b100.mp3)
+- [good morning - B section - 50% speed](./good_morning_b50.mp3)
+- [oh suzannah - 75% speed](./oh_suzannah_75.mp3)
+- [oh suzannah - 100% speed](./oh_suzannah_100.mp3)
+
 ## 2/28
 - [a singer using vocal runs](https://www.youtube.com/watch?v=S2V9nZ465Co), notice how she holds out a single word and turns it into a long stream of notes
 - [more vocal runs](https://www.youtube.com/watch?v=G0hYxuDav0g)
