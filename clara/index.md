@@ -1,5 +1,12 @@
 # Clara's Mailbox
 
+## 3/21
+- [goodness of god - chorus](./goodness_of_god_chorus.mp3)
+- [sunflower - chorus - 50% speed](./sunflower_chorus50.mp3)
+- [sunflower - chorus - 75% speed](./sunflower_chorus75.mp3)
+- [sunflower - chorus - 90% speed](./sunflower_chorus90.mp3)
+- [sunflower - chorus - 100% speed](./sunflower_chorus100.mp3)
+
 ## 2/28
 - [i'm a little teapot](./teapot-c.mp3) (finish learning melody)
 - [yankee doodle](./yankee-c.mp3) (play chords along to track)
