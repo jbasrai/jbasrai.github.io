@@ -1,5 +1,9 @@
 # Nathaniel's Mailbox
 
+## 3/27
+
+- [johnny b goode](https://www.youtube.com/watch?v=Uf4rxCB4lys) play along to this track using the techniques we've learned
+
 ## 3/20
 
 - [amazing slow downer](https://www.ronimusic.com/) download this app, and starting using it with the files below
