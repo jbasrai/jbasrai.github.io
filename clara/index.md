@@ -1,5 +1,12 @@
 # Clara's Mailbox
 
+## 4/17
+
+- [sunflower chorus 55% speed](./sunflower chorus 55.mp3)
+- [sunflower chorus 65% speed](./sunflower chorus 65.mp3)
+- [sunflower chorus 75% speed](./sunflower chorus 75.mp3)
+- [ode to joy with orchestra and choir](https://www.youtube.com/watch?v=tOGP2C6-sO0)
+
 ## 3/28
 
 - see previous week (3/21) for backing tracks to practice along to
