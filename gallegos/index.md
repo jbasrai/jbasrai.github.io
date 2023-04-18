@@ -1,5 +1,9 @@
 # Gallegos Family's Mailbox
 
+## 4/17
+
+- [saints backing track](./saints backing track.mp3) work this week on playing 1) the melody and 2) the chords with this track
+
 ## 4/3
 
 - [lesson recap](https://drive.google.com/file/d/1iwp5WO76OKAxjvgbdowFoJ7E7036y-kb/view?usp=sharing)
