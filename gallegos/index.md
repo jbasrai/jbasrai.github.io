@@ -3,6 +3,7 @@
 ## 4/17
 
 - [saints backing track](./saints backing track.mp3) work this week on playing 1) the melody and 2) the chords with this track
+- [chord drill](./chord drill.mp3) just so you can hear one more time how it sounds like with a metronome
 
 ## 4/3
 
