@@ -4,7 +4,8 @@
 
 - [example practice plan for this week](./4 18 practice.jpg)
 - [drum loop track](./drums.m4a)
-- [written rhythms](./4 18 rhythm.mp3) go through these on day 1, after that write your own 1 bar (4 beat) rhythms and clap to them
+- [written rhythms](./4 18 quarter.jp4) go through these on day 1, after that write your own 1 bar (4 beat) rhythms and clap to them
+- [demonstration of rhythm practice with the written rhythms + drum track](./4 18 rhythm.mp3) 
 - [ear training](./4 18 ear.mp3) go through these on day 1, then do the same repeat after me with Mom
 
 ## 4/11
