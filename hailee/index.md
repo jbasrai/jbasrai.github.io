@@ -1,5 +1,12 @@
 # Hailee's Mailbox
 
+## 4/25
+- [pitch recognition](./4 25 slow.mp3) - there are 10 questions, for each question I'll play a pitch, name whether the pitch is the 1st scale degree (G) or the 3rd scale degree (B)
+- [answers to above](./4 25 answers.jpg)
+- after you do this, for more practice, feel free to review the pitches OR have a family member test you by playing a G chord in their LH and either a G or B in their RH
+- [repeat after me ear training](./4 25 ear.mp3)
+- [good morning backing track to practice LH rhythm](./425 rhythm.mp3) - the clicks of the metronome will help you time the LH hits
+
 ## 3/21
 - ** I changed my mind about using Amazing Slow Downer -- don't worry about it for now!! Instead, I'll upload parts of the songs at different speeds
 - [good morning - A section](./good_morning_a100.mp3)
