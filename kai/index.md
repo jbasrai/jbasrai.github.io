@@ -6,7 +6,7 @@
 - [clap these rhythms with drum track](./4 25 rhythms.jpg) - these are 2 measure rhythms
 - [listen to these rhythms and write them down](./4 25 questions.mp3) - these are 1 measure rhythms, feel free to pause the video in between questions
 - [answers to above](./4 25 answers.jpg)
-- after working through the examples above, write + clap your own 2 measure rhythms
+- after the day you do the examples above, feel free to review them or, instead, write + clap your own 2 measure rhythms
 - ear training: do more "repeat after me" with Mom using the first 5 notes starting from C
 
 
