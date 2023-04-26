@@ -4,7 +4,7 @@
 - [pitch recognition](./4 25 slow.mp3) - there are 10 questions, for each question I'll play a pitch, name whether the pitch is the 1st scale degree (G) or the 3rd scale degree (B)
 - [answers to above](./4 25 answers.jpg)
 - after you do this, for more practice, feel free to review the pitches OR have a family member test you by playing a G chord in their LH and either a G or B in their RH
-- [repeat after me ear training](./4 25 ear.mp3)
+- [repeat after me ear training](./4 25 ear.mp3) - after you go through this tape, feel free to review it OR improvise some of your own melodies
 - [good morning backing track to practice LH rhythm](./425 rhythm.mp3) - the clicks of the metronome will help you time the LH hits
 
 ## 3/21
