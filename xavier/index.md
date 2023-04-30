@@ -4,7 +4,7 @@
 
 - [assignment for this week](https://www.youtube.com/watch?v=9H5x5fzU5JE)
 - [louis armstrong playing "saints"](https://www.youtube.com/watch?v=wyLjbMBpGDA)
-- [saints song chart](./429 chart.jpg)
+- [saints song chart](./429 chart.jpg) - 1 = C/thumb, 2 = D/index finger, 3 = E/middle finger, etc.
 - [saints backing track slow](./429 slow.mp3) - after you learn the melody, use this backing track first
 - [saints backing track fast](./429 fast.mp3)
 
