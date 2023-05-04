@@ -1,5 +1,12 @@
 # Kai's Mailbox
 
+## 5/4
+
+- [drum track](./swing.m4a)
+- [clap these rhythms with drum track](./54 rhythm.m4a)
+- [chart for "when the band comes marching in"](./54 song.m4a) - after you get comfortable with the melody, play it with the drum track
+
+
 ## 4/25
 
 - [drum loop track](./drums.m4a)
