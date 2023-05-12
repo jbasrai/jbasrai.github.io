@@ -7,7 +7,6 @@
 - [ear training](./511 ear.mp3) - adding the notes G below C, and A. After working through this tape, do more repeat after me with Mom, and also remember to switch who starts first
 
 ### Reading the staff (tap page to show next note)
-- [c and g](./staff.html?notes=cg)
 - [c, e, and g](./staff.html?notes=ceg)
 - [d and  f](./staff.html?notes=df)
 - [c, d, and e ](./staff.html?notes=cde)

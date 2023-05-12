@@ -8,9 +8,21 @@
 		const notes = notesBlob.split('')
 		console.log(notes)
 
+		var lastI
+
 		const changePic = () => {
-			var item = notes[Math.floor(Math.random()*notes.length)];
-			pic.setAttribute("src", item + ".jpg")
+			var i = Math.floor(Math.random()*notes.length)
+			if (i === lastI) {
+				if (i === notes.length - 1) {
+					lastI = 0
+				} else {
+					lastI = i + 1
+				}
+			} else {
+				lastI = i
+			}
+			console.log(lastI)
+			pic.setAttribute("src", notes[lastI] + ".jpg")
 		}
 
 		changePic()
