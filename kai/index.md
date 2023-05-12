@@ -6,7 +6,7 @@
 - [learn "hello" song by ear](https://www.youtube.com/watch?v=UibkX5tVDkI) - the first 2 notes are "G E" ~ "HEL-LO"
 - [ear training](./511 ear.mp3) - adding the notes G below C, and A. After working through this tape, do more repeat after me with Mom, and also try switching who is the leader
 
-### Reading the staff (tap page to show next note)
+### Reading the staff: play the note that is shown, then tap the page to show the next note
 - [c, e, and g](./staff.html?notes=ceg)
 - [d and  f](./staff.html?notes=df)
 - [c, d, and e ](./staff.html?notes=cde)
