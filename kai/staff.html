@@ -1,0 +1,22 @@
+<html>
+	<img height="100%" id="pic"></img>
+	<script>
+		var pic = document.getElementById("pic")
+
+		const urlParams = new URLSearchParams(window.location.search);
+		const notesBlob = urlParams.get('notes');
+		const notes = notesBlob.split('')
+		console.log(notes)
+
+		const changePic = () => {
+			var item = notes[Math.floor(Math.random()*notes.length)];
+			pic.setAttribute("src", item + ".jpg")
+		}
+
+		changePic()
+
+		document.onclick = () => {
+			changePic()
+		}
+	</script>
+</html>
