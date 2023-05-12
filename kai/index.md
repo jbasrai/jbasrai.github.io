@@ -11,7 +11,7 @@
 - [d and  f](./staff.html?notes=df)
 - [c, d, and e ](./staff.html?notes=cde)
 - [e, f, and g](./staff.html?notes=efg)
-- [all notes](./staff.html?notes=cdefg))
+- [all notes](./staff.html?notes=cdefg)
 
 ## 5/4
 
