@@ -3,8 +3,8 @@
 ## 5/11
 
 - [mystery tune](./511 mystery.jpg) - first clap rhythms, then play notes
-- [learn "hello" song by ear](https://www.youtube.com/watch?v=UibkX5tVDkI) - the first 2 notes are "G E" ~ "HEL-LO". The recording is in a different key, so listen and learn to sing the song first and then transpose it to the key of C using the starting notes.
-- [ear training](./511 ear.mp3) - adding the notes G below C, and A. After working through this tape, do more repeat after me with Mom, and also remember to switch who starts first
+- [learn "hello" song by ear](https://www.youtube.com/watch?v=UibkX5tVDkI) - the first 2 notes are "G E" ~ "HEL-LO"
+- [ear training](./511 ear.mp3) - adding the notes G below C, and A. After working through this tape, do more repeat after me with Mom, and also try switching who is the leader
 
 ### Reading the staff (tap page to show next note)
 - [c, e, and g](./staff.html?notes=ceg)
