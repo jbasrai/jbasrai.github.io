@@ -1,5 +1,12 @@
 # Kai's Mailbox
 
+## 5/16
+
+- [mystery tune](./516 mystery.jpg)
+- [winnie the pooh and the honey tree](https://archive.org/details/20190612143349) - theme music starts at 3:45, learn this melody on the piano this week
+- [melody on the piano](./516 winnie.mp3) - here's the melody transposed in our key on the piano
+- [more songs by ella jenkins](https://youtube.com/playlist?list=OLAK5uy_kC25EfJ_s0GN3cwdHGAeETripH8PH8jSg) - it might be fun to learn some more of these
+
 ## 5/11
 
 - [mystery tune](./511 mystery.jpg) - first clap rhythms, then play notes
