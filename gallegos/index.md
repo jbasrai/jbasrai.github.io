@@ -1,12 +1,34 @@
 # Benny's Mailbox
 
-## 5/16
+## 5/18
 
-- [midnight special by little richard](https://youtu.be/5p0lEt6ImOQ)
+### goals for this week
 
-### some more songs by little richard
+- finding the "downbeat" in any given song
+- clapping written rhythms
+- learning about the drum kit: hi-hat, snare, and bass/kick drum
+- polishing up melody to "Saints" in the second half of the tune
+- playing LH bass and RH chords along with "Midnight Special"
+- playing "Saints" and "Mary Had A Little Lamb" with LH chords
+
+### instructions for finding the downbeat (beat 1)
+- play the music
+- count "1 2 3 4" out loud
+- if it feels right, begin to clap on beat 1. this marks the downbeat
+- if it doesn't feel right, stop counting, listen more, and then restart the count
+
+### find downbeat to these tracks
+- [midnight special](https://youtu.be/5p0lEt6ImOQ)
 - [tutti frutti](https://youtu.be/Cj059o9OwqY)
 - [lucille](https://youtu.be/u0Ujb6lJ_mM)
+- [when the saints go marching in](https://www.youtube.com/watch?v=wyLjbMBpGDA)
+- [mary had a little lamb](https://www.youtube.com/watch?v=YE7PiTwhTQk)
+- [drum track](https://www.youtube.com/watch?v=85ZptB9kgaM&t=862s)
+
+### more resources 
+- [demonstration of basic drum kit](https://www.youtube.com/watch?v=RduWNBx1rMY) - listen individually to each part of the kit: hi-hat, snare, and bass (or kick) drum
+- [clap these written rhythms using the drum track above](./518 rhythm.jpg)
+
 
 ## 4/17
 
