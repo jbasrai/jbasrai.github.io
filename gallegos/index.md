@@ -23,7 +23,7 @@
 - [lucille](https://youtu.be/u0Ujb6lJ_mM)
 - [when the saints go marching in](https://www.youtube.com/watch?v=wyLjbMBpGDA)
 - [mary had a little lamb](https://www.youtube.com/watch?v=YE7PiTwhTQk)
-- [drum track](https://www.youtube.com/watch?v=85ZptB9kgaM&t=862s)
+- [drum track](https://www.youtube.com/watch?v=85ZptB9kgaM)
 
 ### more resources 
 - [demonstration of basic drum kit](https://www.youtube.com/watch?v=RduWNBx1rMY) - listen individually to each part of the kit: hi-hat, snare, and bass (or kick) drum
