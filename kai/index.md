@@ -1,5 +1,10 @@
 # Kai's Mailbox
 
+## 5/20
+
+- [G "hopping" exercise](https://youtu.be/scp93lwdCIY)
+- [reading hops from G](./520 exercise.jpg)
+
 ## 5/16
 
 - [mystery tune](./516 mystery.jpg)
