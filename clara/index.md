@@ -1,5 +1,9 @@
 # Clara's Mailbox
 
+## 5/30
+
+- ["ragtime and early jazz" playlist](https://open.spotify.com/playlist/6qXMts7ox72toSfYTbAKc3?si=71b344075f064f4e)
+
 ## 5/16
 
 - [sunflower backing track](./516 backing.mp3)

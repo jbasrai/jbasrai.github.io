@@ -1,5 +1,25 @@
 # Kai's Mailbox
 
+## 5/30
+
+- [example practice plan for next couple weeks](./530 plan.jpg)
+- [ice cream song](./530 icecream.mp3)
+
+### mystery tunes
+- [mystery tune #1](./530 mystery1.jpg)
+- [mystery tune #2](./530 mystery2.jpg)
+- [mystery tune #3](./530 mystery3.jpg)
+- [mystery tune #4](./530 mystery4.jpg)
+- [mystery tune #5](./530 mystery5.jpg)
+
+### songs to learn by ear
+- the wheels on the bus
+- if you're happy and you know it
+- the itsby bitsy spider
+- the more we get together
+- mr. golden sun
+
+
 ## 5/20
 
 - [G "hopping" exercise](https://youtu.be/scp93lwdCIY)

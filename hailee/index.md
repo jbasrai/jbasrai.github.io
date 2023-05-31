@@ -1,5 +1,10 @@
 # Hailee's Mailbox
 
+## 5/30
+- ["pleasant moments" melody](./530 melody)
+- [example improv with G major triad](./530 improv)
+- ["ragtime and early jazz" playlist](https://open.spotify.com/playlist/6qXMts7ox72toSfYTbAKc3?si=71b344075f064f4e)
+
 ## 5/16
 - [good morning backing track](./516 backing.mp3)
 

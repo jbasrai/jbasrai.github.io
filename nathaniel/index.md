@@ -1,5 +1,12 @@
 # Nathaniel's Mailbox
 
+## 5/30
+
+- [example practice plan](./530 plan.jpg)
+- ["pine apple rag" melody](./530 melody.mp3)
+- [example improvising with Bb triad](./530 improv.mp3)
+- ["ragtime and early jazz" playlist](https://open.spotify.com/playlist/6qXMts7ox72toSfYTbAKc3?si=16da5a3649e84e62)
+
 ## 5/16
 
 - [zelda medley backing track](./316 backing.mp3)
