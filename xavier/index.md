@@ -1,5 +1,17 @@
 # Xavier's Mailbox
 
+## 6/1
+
+- [example practice plan](./61 plan.jpg)
+- [listening playlist](https://open.spotify.com/playlist/4GvOxrAcEYKboHN4n7Sf7J?si=707c6c24b2fe46df)
+
+### song charts
+
+- I didn't write down the names of these tunes so you can figure them out as you play them
+- [tune #1](./61 mystery1.jpg)
+- [tune #2](./61 mystery2.jpg)
+- [tune #3](./61 mystery3.jpg)
+
 ## 4/29 
 
 - [assignment for this week](https://www.youtube.com/watch?v=9H5x5fzU5JE)

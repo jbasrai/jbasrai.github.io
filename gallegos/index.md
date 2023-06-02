@@ -1,5 +1,17 @@
 # Benny's Mailbox
 
+## 6/1
+
+- [example practice plan](./61 plan.jpg)
+- [listening playlist](https://open.spotify.com/playlist/13dOOHVwDpOpPEHVzhFuYc?si=3932354cec914fd4)
+
+### song charts
+
+- I didn't write down the names of these tunes so you can figure them out as you play them
+- [tune #1](./61 mystery1.jpg)
+- [tune #2](./61 mystery2.jpg)
+- [tune #3](./61 mystery3.jpg)
+
 ## 5/18
 
 ### goals for this week
