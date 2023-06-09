@@ -1,5 +1,26 @@
 # Hailee's Mailbox
 
+## 6/8
+- [lesson plan](./68 plan.jpg)
+- ["pleasant moments" melody](./530 melody.mp3)
+- ["ragtime and early jazz" playlist](https://open.spotify.com/playlist/6qXMts7ox72toSfYTbAKc3?si=71b344075f064f4e)
+
+### reading practice
+- [triads](./68 triads.jpg)
+- [steps](./68 steps.jpg)
+
+### playing piano + singing
+- watch these to get an idea of different sounds and styles
+- [taylor swift](https://www.youtube.com/watch?v=K-n9-FVTq6w)
+- [alicia keys](https://www.youtube.com/watch?v=obkrMiyDrbs)
+- [nina simone](https://www.youtube.com/watch?v=-sEP0-8VAow)
+- [norah jones](https://www.youtube.com/watch?v=tlriGKmxrQ4)
+- [ray charles](https://www.youtube.com/watch?v=glggureA_Kk)
+- [freddie mercury](https://www.youtube.com/watch?v=vbvyNnw8Qjg)
+- [elton john](https://www.youtube.com/watch?v=r_QZe8Z66x8)
+
+
+
 ## 5/30
 - ["pleasant moments" melody](./530 melody)
 - [example improv with G major triad](./530 improv)
