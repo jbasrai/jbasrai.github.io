@@ -2,7 +2,7 @@
 
 ## 6/21
 
-*Main goal this week:* Review some of the old tunes, now adding LH on the "strong beats". Feel free to also learn some of the new tunes also that were leftover from last time.
+*Main goal this week:* Review some of the old tunes, now using your LH to tap the "strong beats". Feel free to also learn some of the new tunes also that were leftover from last time – you don't have to tap on these.
 
 - [practicing strong beats](https://youtu.be/kgV8WpZkXNk)
 - [example of writing in strong beats on "itsy bitsy spider](./621 beats.jpg) - Just like in this example, it might be helpful to write down all the words of the song and also to mark each beat with a ".", before filling in the strong beats. This way you can double check your work by singing the song and clapping along.
