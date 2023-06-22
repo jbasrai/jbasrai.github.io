@@ -1,5 +1,9 @@
 # Hailee's Mailbox
 
+## 6/21
+- [repeat after me](./621 ear.mp3) - In this recording, I'm making phrases using the first 5 notes of our 5 note scale: G, A, B, D, E. I play each phrase twice, you can then repeat back the phrase twice also.
+- slight change to the lesson plan this week: Let's ignore the G - C minor improvisation that we did at the end of the lesson. Instead, can you learn the lyrics to "Rocket Man", focusing on the words in the chorus.
+
 ## 6/8
 - [lesson plan](./68 plan.jpg)
 - ["pleasant moments" melody](./530 melody.mp3)
