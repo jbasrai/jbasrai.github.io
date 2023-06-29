@@ -1,5 +1,18 @@
 # Nathaniel's Mailbox
 
+## 6/28
+
+At some point this week, see if you can send me that Michael Jackson song
+
+### some example improvisation rules
+- improvise using only the rhythm of the first phrase in the tune
+- make phrases that go up and then come back down
+- start and end your phrase on "D"
+- use only "jumps", like "Bb <-> F", "D <-> Bb", or "F <-> D"
+- use a lot of repeated notes
+- use only 2 bar phrases
+
+
 ## 5/30
 
 - [example practice plan](./530 plan.jpg)
