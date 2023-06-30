@@ -1,5 +1,20 @@
 # Kai's Mailbox
 
+## 6/29
+
+### Goals this week
+
+- Work through the Piano Adventures Lesson Book, reviewing the material starting on page 10 and then continuing on
+- Play through some of the tunes we're learning, using the LH to keep time. Start with tapping all 4 beats of the measure, then move on to tapping just the strong beats (beats 1 and 3)
+- Continue with "repeat after me" ear training and staff notation flashcards
+
+### Backing tracks for the songs in the lesson book
+- [the old clock](629 clock.mp3)
+- [the walking song](629 walking.mp3)
+- [two questions](629 questions.mp3)
+- [the i like song](629 like.mp3)
+- [i hear the echo](629 echo.mp3)
+
 ## 6/21
 
 *Main goal this week:* Review some of the old tunes, now using your LH to tap the "strong beats". Feel free to also learn some of the new tunes also that were leftover from last time – you don't have to tap on these.
