@@ -9,7 +9,7 @@
 - [best friends](77 friends.mp3)
 
 ### Other goals for this week
-- Tap a steady beat with the LH while tapping these [rhythms](77 rhythm.jpg) in the RH -- loop each example a few times in a row until it's comfortable
+- Tap a steady beat with the LH while tapping these [rhythms](77 rhythm.jpg) in the RH -- loop each example a few times in a row until it's comfortable. If you finish this during the week, feel free to write some of your own 4 beat rhythms.
 - Tap a steady beat with the LH while playing some of the simpler tunes (tunes that have mostly quarter notes and half notes)
 - Continue learning tunes from the 5/30 week
 
