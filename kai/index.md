@@ -1,5 +1,18 @@
 # Kai's Mailbox
 
+## 7/7
+
+### Piano Adventures, pages 36-39
+- [middle c march](77 march.mp3)
+- [ten second song](77 ten.mp3)
+- [driving in the g clef](77 driving.mp3)
+- [best friends](77 friends.mp3)
+
+### Other goals for this week
+- Tap a steady beat with the LH while tapping these [rhythms](77 rhythm.jpg) in the RH -- loop each example a few times in a row until it's comfortable
+- Tap a steady beat with the LH while playing some of the simpler tunes (tunes that have mostly quarter notes and half notes)
+- Continue learning tunes from the 5/30 week
+
 ## 6/29
 
 ### Goals this week
