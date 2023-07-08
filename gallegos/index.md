@@ -1,5 +1,245 @@
 # Benny's Mailbox
 
+## 7/7
+
+I've decided that the Mario theme might not be the best use of lesson time right now, but here are the notes very slowly if you'd like to learn it on your own.
+
+[first phrase](77 p1.mp3)
+[second phrase](77 p2.mp3)
+[third phrase](77 p3.mp3)
+[full theme](77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Goal for playing "Twinkle Twinkle Little Star" this week:
+77 under.m4a)
+
+Example goal for playing "Twinkle Twinkle Little Star" this week, RH melody + LH chords: [audio](77 twinkle.mp3)
+
+
 ## 6/1
 
 - [example practice plan](./61 plan.jpg)
