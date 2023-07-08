@@ -1,5 +1,16 @@
 # Hailee's Mailbox
 
+## 7/7
+
+### Assignments for this week:
+1. Write the words to a simple song. Take ideas from the nursery rhymes we looked at.
+2. Practice finding Bb, Eb, F chords. Play the root down in the bass with the LH, and the triad in the middle of the piano with the RH. Practice singing the bass note.
+3. Start learning chords to the chorus of Rocket Man.
+4. Learn the 2nd ending of Pleasant Moments. Also start filling in the different chords with the LH.
+5. Improvise over the tune by making up some rules. Keep the LH simple and play a G chord on the downbeat.
+
+## 6/28
+
 - ["pleasant moments" melody with a metronome](629 pleasant.mp3)
 - [answers to where the chords change on "rocket man", feel free to only look after you've written in your best guesses](629 rocket.jpg)
 
