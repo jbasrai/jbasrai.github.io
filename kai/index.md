@@ -2,7 +2,7 @@
 
 ## 7/16
 
-- [use both hands to tap these rhythms](./716 rhythm.mp3) (loop each example a few times)
+- [use both hands to tap these rhythms](./716 rhythm.jpg) (loop each example a few times)
 
 ### Piano Adventures, pages 40-45
 - [gorilla in the tree](./716 gorilla.mp3)
