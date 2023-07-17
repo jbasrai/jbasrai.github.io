@@ -1,5 +1,16 @@
 # Kai's Mailbox
 
+## 7/16
+
+- [use both hands to tap these rhythms](./716 rhythm.mp3) (loop each example a few times)
+
+### Piano Adventures, pages 40-45
+- [gorilla in the tree](./716 gorilla.mp3)
+- [my invention](./716 invention.mp3)
+- [march on D-E-F](./716 march.mp3)
+- [the dance band](./716 dance.mp3)
+- [frogs on logs](./716 frogs.mp3)
+
 ## 7/7
 
 ### Piano Adventures, pages 36-39
