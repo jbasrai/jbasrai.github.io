@@ -1,5 +1,10 @@
 # Hailee's Mailbox
 
+## 7/23
+
+- [hymn sheet music](723 king.jpg)
+- [how it sounds](723 king.mp3) - try to first figure out the notes by yourself, and then only then use the recording to check your work
+
 ## 7/7
 
 ### Assignments for this week:
