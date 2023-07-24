@@ -2,7 +2,7 @@
 
 ## 7/23
 
-- [hymn sheet music](723 king.jpg)
+- [hymn sheet music](723 king.jpg) - can you also print this out and bring it to the lesson this week?
 - [how it sounds](723 king.mp3) - try to first figure out the notes by yourself, and then only then use the recording to check your work
 
 ## 7/7
