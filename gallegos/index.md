@@ -1,5 +1,11 @@
 # Benny's Mailbox
 
+## 8/5
+
+- [reading practice](./85 notes.jpg)
+- [hymn sheet music](./85 hymn.jpg)
+- [recording of the melody](./85 melody.mp3)
+
 ## 7/7
 
 I've decided that the Mario theme might not be the best use of lesson time right now, but here are the notes very slowly if you'd like to learn it on your own.
