@@ -1,5 +1,9 @@
 # Hailee's Mailbox
 
+## 8/5
+
+Don't worry about working on the rhythms we did in the lesson just yet, we'll revisit it at the next lesson
+
 ## 7/23
 
 - [hymn sheet music](723 king.jpg) - can you also print this out and bring it to the lesson this week?
