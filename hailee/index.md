@@ -1,5 +1,9 @@
 # Hailee's Mailbox
 
+## 8/26
+
+- [singing exercise](./826 singing.jpg)
+
 ## 8/5
 
 Don't worry about working on the rhythms we did in the lesson just yet, we'll revisit it at the next lesson
