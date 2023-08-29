@@ -1,5 +1,11 @@
 # Clara's Mailbox
 
+## 8/28
+
+- [hymn sheet music](./828 hymn.jpg)
+- [hymn melody](./828 hymn.mp3)
+- [original rag melody](./828 rag.mp3)
+
 ## 5/30
 
 - ["ragtime and early jazz" playlist](https://open.spotify.com/playlist/6qXMts7ox72toSfYTbAKc3?si=71b344075f064f4e)

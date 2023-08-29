@@ -1,5 +1,8 @@
 # Nathaniel's Mailbox
 
+## 8/28
+- [hymn sheet music](./828 hymn.jpg)
+
 ## 6/28
 
 At some point this week, see if you can send me that Michael Jackson song
