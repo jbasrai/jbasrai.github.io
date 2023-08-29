@@ -11,7 +11,7 @@
 - [miles davis](https://www.youtube.com/watch?v=ZZcuSBouhVA)
 - [oscar peterson](https://youtu.be/NTJhHn-TuDY?si=uaBTjUCDU2LikEG7&t=155)
 - [thelonious monk](https://www.youtube.com/watch?v=_40V2lcxM7k)
-- [miki yamanaka](https://youtu.be/cb166FKXQJ8?si=PtvqfYcA5-_jeV1B&t=17)
+- [miki yamanaka](https://www.youtube.com/live/g15XWW99Lx8?si=uYdM2WDRJbNApJ9L&t=715)
 
 
 
