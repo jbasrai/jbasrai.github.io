@@ -4,9 +4,11 @@
 ### blues repetition
 - [bessie smith](https://www.youtube.com/watch?v=5Bo3f_9hLkQ)
 - [robert johnson](https://www.youtube.com/watch?v=YYsnRc09csQ)
+- [little richard](https://www.youtube.com/watch?v=u0Ujb6lJ_mM)
 - [bb king](https://youtu.be/WFi3C_5U9_Y?si=bHCfHG_eihbZGei3&t=140)
 
 ### instrumental examples (specifically in the first chorus, or "head", of the tune)
+- [miles davis](https://www.youtube.com/watch?v=ZZcuSBouhVA)
 - [oscar peterson](https://youtu.be/NTJhHn-TuDY?si=uaBTjUCDU2LikEG7&t=155)
 - [thelonious monk](https://www.youtube.com/watch?v=_40V2lcxM7k)
 - [miki yamanaka](https://youtu.be/cb166FKXQJ8?si=PtvqfYcA5-_jeV1B&t=17)
