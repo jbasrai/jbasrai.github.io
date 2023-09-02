@@ -1,5 +1,9 @@
 # Mira's Mailbox
 
+## September 1
+- [tenor madness](./tenor.mp3) - leaves out the pickup to measure 1
+- [girl from ipanema](./ipanema.mp3) - wrong rhythm in m16, sorry!
+
 ## August 28
 ### blues repetition
 - [bessie smith](https://www.youtube.com/watch?v=5Bo3f_9hLkQ)

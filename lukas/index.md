@@ -1,6 +1,14 @@
 # Lukas's Mailbox
 
-## 8/26
+## September 1
+
+### c jam blues
+[oscar peterson](https://www.youtube.com/watch?v=NTJhHn-TuDY)
+[red garland](https://www.youtube.com/watch?v=s9BCWzQnQ4Q)
+
+
+
+## August 26
 
 ### blues listening examples
 - [oscar peterson](https://www.youtube.com/watch?v=NTJhHn-TuDY)
