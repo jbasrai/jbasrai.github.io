@@ -3,8 +3,8 @@
 ## September 1
 
 ### c jam blues
-[oscar peterson](https://www.youtube.com/watch?v=NTJhHn-TuDY)
-[red garland](https://www.youtube.com/watch?v=s9BCWzQnQ4Q)
+- [oscar peterson](https://www.youtube.com/watch?v=NTJhHn-TuDY)
+- [red garland](https://www.youtube.com/watch?v=s9BCWzQnQ4Q)
 
 
 
