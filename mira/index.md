@@ -1,5 +1,32 @@
 # Mira's Mailbox
 
+## September 11
+- [A Dave Brubeck Christmas](https://open.spotify.com/album/13Xwxp8icIpeRQhwdN7crn?si=dVm0ODzrSdi_kz2JJokgsg) - some more ideas for this year's Christmas tunes
+- [2-note chord voicings](./voicings.jpg) - 3rd and 7th
+
+### Goals this week
+#### Slow singing
+- Play random pitches in the bass range
+- Match pitch with voice
+- Then practice singing major 3rds
+
+#### Blues roots
+- Be able to play roots in LH
+- Then play + sing
+- Then sing without the piano
+
+#### Blues 3rds
+- Play root in LH and 3rd in RH (remember that C-7 is the only chord with a minor 3rd)
+- Then play the same thing while singing the 3rd
+- Then play just the root while singing the 3rd
+
+#### Blues 7ths
+- Play root in LH and 3rd + 7th in RH (each voicing will either be 3-7 or 7-3)
+- Play the same thing while singing the middle voice
+- Play the same thing while singing the top voice
+- Try playing along with the "Tenor Madness" recording
+
+
 ## September 1
 - [tenor madness](./tenor.mp3) - leaves out the pickup to measure 1
 - [girl from ipanema](./ipanema.mp3) - wrong rhythm in m16, sorry!
