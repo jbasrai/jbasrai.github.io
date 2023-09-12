@@ -14,17 +14,19 @@
 - Be able to play roots in LH
 - Then play + sing
 - Then sing without the piano
+- Play with "Tenor Madness" track
 
 #### Blues 3rds
 - Play root in LH and 3rd in RH (remember that C-7 is the only chord with a minor 3rd)
 - Then play the same thing while singing the 3rd
 - Then play just the root while singing the 3rd
+- Play everything with "Tenor Madness"
 
 #### Blues 7ths
 - Play root in LH and 3rd + 7th in RH (each voicing will either be 3-7 or 7-3)
 - Play the same thing while singing the middle voice
 - Play the same thing while singing the top voice
-- Try playing along with the "Tenor Madness" recording
+- Play everything with "Tenor Madness"
 
 
 ## September 1
