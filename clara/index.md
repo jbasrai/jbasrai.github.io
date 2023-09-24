@@ -1,5 +1,11 @@
 # Clara's Mailbox
 
+## September 23
+### some christmas albums to check out
+- A Dave Brubeck Christmas
+- I Dream Of Christmas (Norah Jones)
+- A Charlie Brown Christmas (Vince Guaraldi)
+
 ## 8/28
 
 - [hymn sheet music](./828 hymn.jpg)

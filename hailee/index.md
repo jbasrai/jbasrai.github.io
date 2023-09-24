@@ -1,5 +1,15 @@
 # Hailee's Mailbox
 
+## September 23
+### ear training
+- [guidetones](./guidetones.mp3)
+- [melodies](./melodies.mp3) - each one repeats twice to give you more time to hear it
+
+### some christmas albums to check out
+- A Dave Brubeck Christmas
+- I Dream Of Christmas (Norah Jones)
+- A Charlie Brown Christmas (Vince Guaraldi)
+
 ## 8/26
 
 - [singing exercise](./826 singing.jpg)

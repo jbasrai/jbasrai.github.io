@@ -1,5 +1,13 @@
 # Mira's Mailbox
 
+## September 23
+### ear training
+- 10 questions each
+- [triads: major/minor](./triads.mp3)
+- [answers](./tanswers.jpg)
+- [seventh chords: dominant 7/major 7/minor 7](./dominants.mp3)
+- [answers](./sanswers.jpg)
+
 ## September 11
 - [A Dave Brubeck Christmas](https://open.spotify.com/album/13Xwxp8icIpeRQhwdN7crn?si=dVm0ODzrSdi_kz2JJokgsg) - some more ideas for this year's Christmas tunes
 - [2-note chord voicings](./voicings.jpg) - 3rd and 7th
