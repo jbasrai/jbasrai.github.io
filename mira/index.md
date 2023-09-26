@@ -5,7 +5,7 @@
 - 10 questions each
 - [triads: major/minor](./triads.mp3)
 - [answers](./tanswers.jpg)
-- [seventh chords: dominant 7/major 7/minor 7](./dominants.mp3)
+- [seventh chords: dominant 7/major 7/minor 7](./sevenths.mp3)
 - [answers](./sanswers.jpg)
 
 ## September 11
