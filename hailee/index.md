@@ -1,7 +1,7 @@
 # Hailee's Mailbox
 
 ## September 23
-### ear training
+### repeat after me - key of G, 1 measure of G chord + 1 measure of D chord
 - [guidetones](./guidetones.mp3)
 - [melodies](./melodies.mp3) - each one repeats twice to give you more time to hear it
 
