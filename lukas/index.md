@@ -1,5 +1,11 @@
 # Lukas's Mailbox
 
+## October 3
+
+- [playing Greensleeves using "shared hands voicings"](https://drive.google.com/file/d/1syzBsXgTAguFgszNK-OA8yUyvtHn-VFr/view?usp=sharing)
+- [greensleeves - vince guaraldi trio](https://www.youtube.com/watch?v=SHU99s793q8)
+- [greensleeves - dave brubeck](https://www.youtube.com/watch?v=hSF3GLloZqs)
+
 ## September 10
 
 - [moonlight sonata](./sonata.pdf)

@@ -1,5 +1,10 @@
 # Clara's Mailbox
 
+## October 3
+
+- Instead of making a backing track for "Original Rag", I would just check out a recorded version, like [this one](https://www.youtube.com/watch?v=msNjpgkrTW0) and play along. Youtube also has a function to slow down the playback, so that you can work up to the full tempo.
+- Reminder to pick out a Christmas tune this week. If possible, let me know what it is before the lesson, so I can take a listen to it. Thanks!
+
 ## September 23
 ### some christmas albums to check out
 - A Dave Brubeck Christmas
