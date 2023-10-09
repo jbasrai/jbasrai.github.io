@@ -1,5 +1,25 @@
 # Hailee's Mailbox
 
+## October 8
+
+### G Major Scale
+- I forgot to mention this in the lesson, but the scale sounds good with hands separate, so let's start putting them together. Keep practicing with the metronome.
+- Practice playing the scale using 6ths, with one note in each hand. Start with G in the RH and B in the LH, play up and down one octave. Once this feels easy, start noodling around and improvising using 6ths.
+
+### Improvising in G Major
+- Improvise over G - D - G
+- Come up with a 3-note skeleton, with one note over each chord
+- Then add 1 passing tone between each note, so that you're playing 2 notes per chord
+- Once you feel like you have control, try adding more passing tones, and improvising more freely over the skeleton.
+- Try imagining like you're drawing a line on paper, paying attention to which direction the line is moving and which shape it makes
+
+### White Christmas
+- Polish up the A section, playing it with the metronome at 108
+- Learn the B section, I'll put up the notes for this later this week, so you can check your answers.
+- Start adding a "back and forth" texture in the LH. [audio example](./108.mp3)
+- Practice this LH only first, then add RH
+
+
 ## September 23
 ### repeat after me - key of G, 1 measure of G chord + 1 measure of D chord
 - [guidetones](./guidetones.mp3)
