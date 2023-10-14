@@ -1,5 +1,9 @@
 # Benny's Mailbox
 
+## October 13
+
+- [practice goals for this week](https://drive.google.com/file/d/1IVjHf8k3Si_7urTs2qLSDqKELbsn-TgC/view?usp=sharing)
+
 ## September 23
 ### some christmas albums to check out
 - A Dave Brubeck Christmas

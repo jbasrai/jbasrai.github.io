@@ -1,5 +1,13 @@
 # Nathaniel's Mailbox
 
+## October 13
+
+- [backing track for My Little Drum](./1013.mp3)
+
+### listening inspiration for soloing on My Little Drum
+- [Wave - Oscar Peterson](https://www.youtube.com/watch?v=5IAg6XY-0rI)
+- [Para Machucar Meu Coracao - Getz & Gilberto](https://www.youtube.com/watch?v=L9ocIa2W19Y&pp=ygURc3RhbiBnZXR6IGNvcmFjYW8%3D)
+
 ## September 23
 ### some christmas albums to check out
 - A Dave Brubeck Christmas
