@@ -1,5 +1,17 @@
 # Mira's Mailbox
 
+## October 19
+
+### chords for Christmastime Is Here
+- F Maj 7 // F A C E
+- Eb7#11 // Eb G Bb Db
+- Bø7 // B D F A
+- A-7 // A C E G
+- G-7 // G Bb D F
+- C over F // F C E G
+
+We'll start the next lesson with a mock performance of the A section to Christmastime Is Here, here is an [audio example](./1019.mp3) of sort of what I'm looking for
+
 ## September 23
 ### ear training
 - 10 questions each
