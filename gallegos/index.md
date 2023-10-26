@@ -1,5 +1,10 @@
 # Benny's Mailbox
 
+## October 25
+
+- [exercise 1](./10-25-1.mp4) - use the metronome and practice switching between D and G chords
+- [exercise 2](./10-25-2.mp4) - sing the melody of Let It Snow while playing the chords
+
 ## October 13
 
 - [practice goals for this week](https://drive.google.com/file/d/1IVjHf8k3Si_7urTs2qLSDqKELbsn-TgC/view?usp=sharing)
