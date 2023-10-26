@@ -2,8 +2,8 @@
 
 ## October 25
 
-- [exercise 1](./10-25-1.mp4) - use the metronome and practice switching between D and G chords
-- [exercise 2](./10-25-2.mp4) - sing the melody of Let It Snow while playing the chords
+- [exercise 1](https://drive.google.com/file/d/1cDEWufEACF0sXYZjU90BFxOuCNUXkt7p/view?usp=sharing) - use the metronome and practice switching between D and G chords
+- [exercise 2](https://drive.google.com/file/d/1d2DfaLJnWn6msCiLADw7-U7wkr4loY7J/view?usp=sharing) - sing the melody of Let It Snow while playing the chords
 
 ## October 13
 
