@@ -1,5 +1,10 @@
 # Clara's Mailbox
 
+## October 25
+
+- "un-der-neath the christ-mas tre-ee"
+- C Eb G A Bb A F Eb
+
 ## October 3
 
 - Instead of making a backing track for "Original Rag", I would just check out a recorded version, like [this one](https://www.youtube.com/watch?v=msNjpgkrTW0) and play along. Youtube also has a function to slow down the playback, so that you can work up to the full tempo.
