@@ -1,5 +1,19 @@
 # Mira's Mailbox
 
+## October 25
+
+*plan for next week*
+
+### Christmastime Is Here
+- polish up "block chord" texture (4 note voicing in LH, melody in RH)
+- play chords with bass note + 3/7 voicing, would be good to sing melody over this as well
+
+### blues
+- practice comping with bass + 2 note voicings, practice using both strict patterns (e.g. the charleston) and a free approach
+
+### happy birthday
+- we'll practice improvising with the melody next week, so keep it under your fingers
+
 ## October 19
 
 ### chords for Christmastime Is Here
