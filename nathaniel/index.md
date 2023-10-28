@@ -1,5 +1,16 @@
 # Nathaniel's Mailbox
 
+## October 27
+
+- [drum track for My Little Drum](./bossa.mp3)
+
+### lesson notes
+- focusing on rhythm
+- start with playing quarter notes on one note
+- then eighth notes
+- then a mix of both + rests
+- add neighbor tones, for example D F G, keeping the rhythmic feel good, but also now thinking about making strong melodies
+
 ## October 13
 
 - [backing track for My Little Drum](./1013.mp3)
