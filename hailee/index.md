@@ -1,5 +1,8 @@
 # Hailee's Mailbox
 
+## November 5
+- [white christmas backing track](./backing.mp3)
+
 ## October 8
 
 ### G Major Scale

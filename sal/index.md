@@ -1,5 +1,9 @@
 # Sal's Mailbox
 
+## November 5
+
+- [backing track](./backing.mp3)
+
 ## October 3
 
 - Continue improvising over V7 - I vamp. Use "guidetones", starting with 1 note per bar, then 2, etc.

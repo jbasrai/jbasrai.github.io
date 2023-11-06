@@ -1,5 +1,10 @@
 # Xavier's Mailbox
 
+## November 5
+
+- [linus and lucy backing track](./backing.mp3)
+- feel free to figure out some more of the melody on your own
+
 ## 6/1
 
 - [example practice plan](./61 plan.jpg)
