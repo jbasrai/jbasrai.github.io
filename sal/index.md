@@ -1,5 +1,9 @@
 # Sal's Mailbox
 
+## November 6
+
+- [jazz at the pawnshop](https://www.youtube.com/watch?v=SRTg9BYrLY8)
+
 ## November 5
 
 - [backing track](./backing.mp3)
