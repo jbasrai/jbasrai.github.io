@@ -1,5 +1,20 @@
 # Benny's Mailbox
 
+## November 6
+
+- listen to some of the recordings below, then decide how we could arrange our tune for the performance
+- here are some decisions to make (be prepared to take about this at the next lesson)
+- tempo (how fast we'll play the song)
+- intro
+- how many choruses to play, and how we'll play them
+- outro
+
+### recordings
+- [ella fitzgerald](https://www.youtube.com/watch?v=s0dfa2_11YQ&pp=ygUbZWxsYSBmaXR6Z2VyYWxkIGxldCBpdCBzbm93)
+- [frank sinatra](https://www.youtube.com/watch?v=sE3uRRFVsmc)
+- [carly simon](https://www.youtube.com/watch?v=6TL21vg9TBU)
+- [woody herman](https://www.youtube.com/watch?v=OoY8TDTUMIM)
+
 ## October 25
 
 - [exercise 1](https://drive.google.com/file/d/1cDEWufEACF0sXYZjU90BFxOuCNUXkt7p/view?usp=sharing) - use the metronome and practice switching between D and G chords
