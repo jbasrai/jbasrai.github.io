@@ -1,5 +1,16 @@
 # Hailee's Mailbox
 
+## November 13
+
+Main goal: Be able to do a performance run of the tune from start to end
+
+- Break up the performance into chunks, and practice small sections at a time
+- Chunk #1: Playing the head, lightly embellishing the melody while comping with the LH. You can work on this hands separate until each part feels comfortable then start putting the hands together.
+- Chunk #2: Soloing over the tune -- focus on heavily embellishing the melody
+- Chunk #3: Playing the head out in 6ths -- listen to Norah Jones' solo and and try to copy her feel
+
+Secondary goal: transcribe (write out the notes to) the B section of White Christmas. Use the written music to help you experiment with *anticipating* notes.
+
 ## November 5
 - [white christmas backing track](./backing.mp3)
 
