@@ -1,5 +1,11 @@
 # Hailee's Mailbox
 
+## November 26
+
+- [example head with LH comping](./1126 head.mp3)
+- [backing track](./1126 backing.mp3)
+- [example solo](./1126 solo)
+
 ## November 13
 
 Main goal: Be able to do a performance run of the tune from start to end
