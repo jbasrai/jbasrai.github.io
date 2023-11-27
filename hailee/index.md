@@ -4,7 +4,7 @@
 
 - [example head with LH comping](./1126 head.mp3)
 - [backing track](./1126 backing.mp3)
-- [example solo](./1126 solo)
+- [example solo](./1126 solo.mp3)
 
 ## November 13
 
