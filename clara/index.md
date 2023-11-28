@@ -1,5 +1,20 @@
 # Clara's Mailbox
 
+## November 27
+
+- practice playing through the form at 150bpm
+- form:
+- rubato intro
+- figure
+- 1st chorus: head (A + B)
+- figure
+- 2nd chorus: head again (A + B)
+- break
+- 3rd chorus: solo (over G/C vamp)
+- play B section out
+- tag ending 3 times
+- [backing track for solo](./1127.mp3)
+
 ## November 5
 
 - [backing track](./backing.mp3)

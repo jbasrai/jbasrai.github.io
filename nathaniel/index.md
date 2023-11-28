@@ -1,5 +1,11 @@
 # Nathaniel's Mailbox
 
+## November 27
+
+- practice soloing with [backing track](./1127.mp3)
+- think about "target note" exercise, landing on a note that works with the chord
+- learn words and melody to "Standing In The Need Of Prayer" (key of F)
+
 ## October 27
 
 - [drum track for My Little Drum](./bossa.mp3)

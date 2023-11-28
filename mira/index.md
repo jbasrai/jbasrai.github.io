@@ -1,5 +1,15 @@
 # Mira's Mailbox
 
+## November 27
+
+- [backing track for solo](./1127.mp3)
+- lesson recap:
+- singing slow tones over the vamp (1 note per 4 measures)
+- speeding it up, 1 note per chord, we called these "target notes"
+- (do a 50/50 mix of singing alone, and then playing along as you sing)
+- introduce 1 or more "passing notes" to connect these target notes
+- start adding in more target notes and passing notes, start improvising more freely
+
 ## November 5
 
 - [backing track](./backing.mp3)
