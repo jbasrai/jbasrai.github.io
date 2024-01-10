@@ -1,5 +1,16 @@
 # Clara's Mailbox
 
+## January 9
+
+This is a sampler of some jazz recordings that I like. Listen to this list during the week, and if a song catches your ear, write it down in your lesson book. Don't worry if nothing stands outi, we'll still have time to find a song.
+
+- [1](https://www.youtube.com/watch?v=HSCaGOvbPL4)
+- [2](https://www.youtube.com/watch?v=cdhHOFv5suY)
+- [3](https://www.youtube.com/watch?v=5mMEQEgGAJY)
+- [4](https://www.youtube.com/watch?v=tCrrZ1NnCuM)
+- [5](https://www.youtube.com/watch?v=j9GgmGLPbWU)
+- [6](https://www.youtube.com/watch?v=APehTNfDQP8)
+
 ## November 27
 
 - practice playing through the form at 150bpm
