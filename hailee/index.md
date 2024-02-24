@@ -6,10 +6,10 @@
 
 goal for this week: learn the melody + lyrics and practice singing it (don't need to learn on the piano, we'll pick a key next week)
 
--[https://youtu.be/VKw-djWwMME?si=ULQBxmbdEkWiWwjs](https://youtu.be/VKw-djWwMME?si=ULQBxmbdEkWiWwjs)
--[https://youtu.be/WAKOG3N-oVI?si=ZHnezjJ-RRptsDwP](https://youtu.be/WAKOG3N-oVI?si=ZHnezjJ-RRptsDwP)
--[https://youtu.be/4TdZ5yk9vLg?si=hmZdPvE2mYBrGtVL](https://youtu.be/4TdZ5yk9vLg?si=hmZdPvE2mYBrGtVL)
--[https://youtu.be/EK8Cb9a_qBE?si=c9EzES7QWZh5TVwk](https://youtu.be/EK8Cb9a_qBE?si=c9EzES7QWZh5TVwk)
+- [https://youtu.be/VKw-djWwMME?si=ULQBxmbdEkWiWwjs](https://youtu.be/VKw-djWwMME?si=ULQBxmbdEkWiWwjs)
+- [https://youtu.be/WAKOG3N-oVI?si=ZHnezjJ-RRptsDwP](https://youtu.be/WAKOG3N-oVI?si=ZHnezjJ-RRptsDwP)
+- [https://youtu.be/4TdZ5yk9vLg?si=hmZdPvE2mYBrGtVL](https://youtu.be/4TdZ5yk9vLg?si=hmZdPvE2mYBrGtVL)
+- [https://youtu.be/EK8Cb9a_qBE?si=c9EzES7QWZh5TVwk](https://youtu.be/EK8Cb9a_qBE?si=c9EzES7QWZh5TVwk)
 
 ## November 26
 
