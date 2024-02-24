@@ -4,7 +4,7 @@
 
 ## When You're Smiling
 
-goal for this week: learn the melody + lyrics and practice singing it (don't need to learn on the piano, we'll pick a key next week)
+goal for this week: learn the melody + lyrics and practice singing it (don't need to learn on the piano, we'll pick a key next week) 
 
 - [https://youtu.be/VKw-djWwMME?si=ULQBxmbdEkWiWwjs](https://youtu.be/VKw-djWwMME?si=ULQBxmbdEkWiWwjs)
 - [https://youtu.be/WAKOG3N-oVI?si=ZHnezjJ-RRptsDwP](https://youtu.be/WAKOG3N-oVI?si=ZHnezjJ-RRptsDwP)
