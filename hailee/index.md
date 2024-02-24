@@ -10,6 +10,7 @@ goal for this week: learn the melody + lyrics and practice singing it (don't nee
 - [https://youtu.be/WAKOG3N-oVI?si=ZHnezjJ-RRptsDwP](https://youtu.be/WAKOG3N-oVI?si=ZHnezjJ-RRptsDwP)
 - [https://youtu.be/4TdZ5yk9vLg?si=hmZdPvE2mYBrGtVL](https://youtu.be/4TdZ5yk9vLg?si=hmZdPvE2mYBrGtVL)
 - [https://youtu.be/EK8Cb9a_qBE?si=c9EzES7QWZh5TVwk](https://youtu.be/EK8Cb9a_qBE?si=c9EzES7QWZh5TVwk)
+- [https://www.youtube.com/watch?v=Qovr43xBU9c](https://www.youtube.com/watch?v=Qovr43xBU9c)
 
 ## November 26
 
