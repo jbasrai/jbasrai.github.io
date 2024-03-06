@@ -10,7 +10,7 @@
 - practiced playing the head not only with good notes and rhythm, but also good feel and energy
 - soloing concept: fluidly moving around the F major pentatonic scale, constant quarter note and eighth note exercise
 - soloing concept: picking a target note on the downbeat, starting with the 1 and 5
-- check this [video](https://www.youtube.com/watch?v=dWjhdQdgCm4) out, it reminded me of that chord-emoji video we talked about
+- check this [video](https://www.youtube.com/watch?v=dWjhdQdgCm4) out, I got reminded of it when we talked about that chord-emoji video
 
 ## November 27
 
