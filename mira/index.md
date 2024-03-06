@@ -1,5 +1,17 @@
 # Mira's Mailbox
 
+## March 6, Lesson Notes
+
+### Mr. Cool
+- learned 4 note chord voicings with 3+7 in the LH and color tones in the RH
+- NOTE: We should change the F -> F# in our F7 chord to better fit the melody
+
+### Hesitation Blues
+- practiced playing the head not only with good notes and rhythm, but also good feel and energy
+- soloing concept: fluidly moving around the F major pentatonic scale, constant quarter note and eighth note exercise
+- soloing concept: picking a target note on the downbeat, starting with the 1 and 5
+- check this [video](https://www.youtube.com/watch?v=dWjhdQdgCm4) out, it reminded me of that chord-emoji video we talked about
+
 ## November 27
 
 - [backing track for solo](./1127.mp3)
