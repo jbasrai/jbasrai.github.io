@@ -1,5 +1,15 @@
 # Clara's Mailbox
 
+## March 12
+
+### Somewhere Over The Rainbow
+
+Check out these recordings and notice how embellishments are used.
+
+- [Keith Jarrett](https://www.youtube.com/watch?v=AyLQGDIrGcI)
+- [Ella Fitzgerald](https://www.youtube.com/watch?v=hc2rTt74Qys)
+- [Chet Baker](https://www.youtube.com/watch?v=voZSr_yWaeU)
+
 ## January 9
 
 This is a sampler of some jazz recordings that I like. Listen to this list during the week, and if a song catches your ear, write it down in your lesson book. Don't worry if nothing stands outi, we'll still have time to find a song.
