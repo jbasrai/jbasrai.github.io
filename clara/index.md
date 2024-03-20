@@ -1,5 +1,24 @@
 # Clara's Mailbox
 
+## March 19 Lesson Notes
+
+### Triad inversions
+
+- practice all 3 inversions of 1,4,5 triads
+- root position
+- 1st inversion
+- 2nd inversion
+
+### Somewhere Over The Rainbow
+- keep solidifying the melody + chords, practice with a metronome and keep good time
+- practice the 2 embellishments we practiced in the lesson
+- #1: "neighbor tone wiggle"
+- #2: "bending to a note" using the lower 2 half steps
+
+### Beautiful
+- practice playing harmony (bass note + chord) while singing the melody
+
+
 ## March 12
 
 ### Somewhere Over The Rainbow

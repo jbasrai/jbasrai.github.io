@@ -1,6 +1,28 @@
 # Mira's Mailbox
 
-## March 6, Lesson Notes
+## March 18 Lesson Notes
+
+### Mira's Tune
+- finish chords for 1st and 2nd ending
+
+### Mr. Cool
+- get voicings solid
+- practice playing the voicings in whole notes on the downbeat
+
+### Blues
+- practice comping with 3+7 voicings (2 note)
+- start by just playing voicings on the downbeat
+- then add rhythm
+- then create tiny melodies with the top note, still targeting the voicing for the next chord
+
+### Practice tools
+- [blues backing track](./blues.mp3)
+- [mr cool backing track](./mrcool.mp3)
+- I recommend the following practice tools:
+- Amazing Slow Downer
+- iReal Pro
+
+## March 6 Lesson Notes
 
 ### Mr. Cool
 - learned 4 note chord voicings with 3+7 in the LH and color tones in the RH
