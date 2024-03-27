@@ -1,5 +1,19 @@
 # Mira's Mailbox
 
+## March 27
+
+- [king porter stomp example](./slow.mp3)
+- [2x speed](./fast.mp3)
+- [jelly roll morton recording](https://www.youtube.com/watch?v=ca-bENUU-4Q)
+- **A** :06-:48
+- **B** :48 - 1:28
+- **C** 1:34 - end
+- more recordings to check out:
+- Artis Wodehouse (good quality solo piano version)
+- Teddy Wilson
+- Wynton Marsalis
+- Benny Goodman
+
 ## March 18 Lesson Notes
 
 ### Mira's Tune
