@@ -1,5 +1,15 @@
 # Xavier's Mailbox
 
+## April 8
+
+### Lesson notes
+
+- Review first line of "Three Green Men" [(recording from lesson)](./men.mp3)
+- Maybe start learning second line
+- Review playing "Impossible Burgers" song [(recording from lesson)](./burg.mp3)
+- Come up with lyrics to end the song. Write them down and bring them to the next lesson. [Here is how the song will sound, come up with words that fit this tune](./burgfull.mp3)
+- Key idea this week: Make sure you can sing the notes, saying the note names, before playing it on the piano.
+
 ## March 12
 
 - [Impossible Burgers and Ice Cream](./burgers.mp3) 
