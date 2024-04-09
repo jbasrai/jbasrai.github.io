@@ -14,10 +14,18 @@
 - play 1 note melody with chord underneath
 - play 2 note melody with chord underneath 
 
-A couple notes:
+Some other things:
 - Rhythm and feel will be the most important thing for this tune, so spend a lot of time with the basics and get them very solid
 - Practice with a metronome, use it to help you slow your practice down
 - I think it would be good to learn a couple melodic "licks" for the turnarounds. We can use the ones [circled here in the sheet music](./melody.jpg)
+- Let's keep using that reverse calendar to help keep us organized for the recital. I'll write out a rough schedule here, but feel free to change anything.
+
+- May 18: Spring recital
+- May 13: Have tune performance ready. Do a couple practice runs at the lesson, but no major changes after this point.
+- May 6: Develop B section.
+- April 29: Develop stomp section. Basic version of B section.
+- April 22: Add last few embellishments to A section melody. Be able to do a simple solo over the A section. Basic version of stomp section.
+- April 15: Be able to play A section with LH chords, 2-note RH melodies + hits, and turnaround licks.
 
 ## March 27
 
