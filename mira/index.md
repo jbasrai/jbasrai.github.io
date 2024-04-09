@@ -1,12 +1,23 @@
 # Mira's Mailbox
 
-## April 4
+## April 8
 
-- [https://youtu.be/TviGgyEGDFs?si=E53jLmhkuhRfYbi2](https://youtu.be/TviGgyEGDFs?si=E53jLmhkuhRfYbi2)
-- [https://www.youtube.com/watch?v=XYgXEp54Aj0](https://www.youtube.com/watch?v=XYgXEp54Aj0)
-- [https://youtu.be/kYJhgz4L3UU?si=pga8K6FqNLWWvC2c](https://youtu.be/kYJhgz4L3UU?si=pga8K6FqNLWWvC2c)
-- [https://youtu.be/TQl3O3vxM-U?si=DATA9zvrhoC4uIsI](https://youtu.be/TQl3O3vxM-U?si=DATA9zvrhoC4uIsI)
-- [https://youtu.be/3E1VBCcA76E?si=ars_S1hhTHEs6MQw](https://youtu.be/3E1VBCcA76E?si=ars_S1hhTHEs6MQw)
+### King Porter Stomp exercises
+
+- walking half notes and clapping the melody
+- tapping quarter notes in LH and tapping the melody in the RH
+- playing chords in LH and tapping the melody in the RH
+- for the rest of the exercises, you can 1) have LH do nothing, 2) tap quarter notes in LH, or 3) play chords in LH
+- playing melody on 1 note
+- playing melody with 2 neighbor notes
+- play whole note chords in RH
+- play 1 note melody with chord underneath
+- play 2 note melody with chord underneath 
+
+A couple notes:
+- Rhythm and feel will be the most important thing for this tune, so spend a lot of time with the basics and get them very solid
+- Practice with a metronome, use it to help you slow your practice down
+- I think it would be good to learn a couple melodic "licks" for the turnarounds. We can use the ones [circled here in the sheet music](./melody.jpg)
 
 ## March 27
 
