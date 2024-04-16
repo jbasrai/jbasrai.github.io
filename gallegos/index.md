@@ -1,5 +1,11 @@
 # Benny's Mailbox
 
+## April 15
+
+- [Red Garland Trio playing C Jam Blues (this is the backing track we used in the lesson, I would recommend slowing it down to 75% speed in YouTube and practicing it that way, let me know if you'd like help with that)](https://www.youtube.com/watch?v=s9BCWzQnQ4Q)
+- [A live performance of C Jam Blues by Oscar Peterson, for more listening](https://www.youtube.com/watch?v=zwXozamnIrw)
+- ["How the rhythm section swings", a short clip that goes over some of the concepts we talked about in the lesson](https://www.youtube.com/watch?v=Xi27zn7YNFo)
+
 ## November 6
 
 - listen to some of the recordings below, then decide how we could arrange our tune for the performance
