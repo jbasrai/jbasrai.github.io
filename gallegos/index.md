@@ -5,7 +5,7 @@
 Piano voicings for each chord of the blues
 - C7: Bb E
 - F7: A Eb
-- G: B F
+- G7: B F
 
 - [Red Garland Trio playing C Jam Blues (this is the backing track we used in the lesson, I would recommend slowing it down to 75% speed in YouTube and practicing it that way, let me know if you'd like help with that)](https://www.youtube.com/watch?v=s9BCWzQnQ4Q)
 - [A live performance of C Jam Blues by Oscar Peterson, for more listening](https://www.youtube.com/watch?v=zwXozamnIrw)
