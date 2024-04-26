@@ -2,6 +2,8 @@
 
 ## April 26
 
+Hi Clara, I attached a backing track that you can use to practice playing 1) the melody with embellishments and 2) soloing
+
 - [backing track, 2 choruses](./backing.mp3)
 - [example 1 (embellished melody + solo)](./example2.mp3)
 - [example 2](./example3.mp3)
