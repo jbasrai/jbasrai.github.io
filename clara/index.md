@@ -1,5 +1,11 @@
 # Clara's Mailbox
 
+## April 26
+
+- [backing track, 2 choruses](./backing.mp3)
+- [example 1 (embellished melody + solo)](./example2.mp3)
+- [example 2](./example3.mp3)
+
 ## March 19 Lesson Notes
 
 ### Triad inversions
