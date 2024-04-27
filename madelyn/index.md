@@ -6,4 +6,4 @@ Nice to meet you Madelyn! Here are a couple of things to help with practice this
 
 - [dill pickle stomp rhythms](./dill.mp3)
 - [dill pickle stomp backing track](./backing.mp3)
-- [morning backing track])(./morning.mp3)
+- [morning backing track](./morning.mp3)
