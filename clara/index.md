@@ -1,5 +1,15 @@
 # Clara's Mailbox
 
+## April 29
+
+- Do a run through of the tune every day at the beginning of your practice session. Imagine like you're in the performance, if you make a mistake it's OK just keep going.
+- Practice soloing thinking about making short, singable melodic phrases.
+
+### Playing melody in 6ths
+- Practice playing Ab Major scale in 6ths (RH will start on Ab and LH will be on C)
+- Practice improvising in 6ths
+- Practice the B section of the tune with 6ths
+
 ## April 26
 
 Hi Clara, I attached a backing track that you can use to practice playing 1) the melody with embellishments and 2) soloing
