@@ -2,7 +2,7 @@
 
 ## April 30
 - Performance ready for recital in 2 weeks: being able to play the head/melody of C JAM BLUES and being able to improvise on it
-- [C JAM BLUES backing track](./c.m4a)
+- [C JAM BLUES backing track](./c.mp3)
 - [EXAMPLE head + solo](./example.mp3)
 
 ### soloing concept: treating the piano like a drumset
