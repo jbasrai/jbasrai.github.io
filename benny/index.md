@@ -6,7 +6,7 @@
 - [EXAMPLE head + solo](./example.mp3)
 
 ### soloing concept: treating the piano like a drumset
-- imagine you have 3 drums: [picture](./picture.mp3)
+- imagine you have 3 drums: [picture](./keys.jpg)
 - make rhythms using these drums
 - important: leave plenty of space between your phrases and use a lot of repetition (listen to example solo)
 
