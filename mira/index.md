@@ -1,5 +1,34 @@
 # Mira's Mailbox
 
+## April 30
+
+### LH progression
+- play roots
+- play chords
+- (spend more time on A2 to get it solid)
+- play roots on beat 1 + 3, chords on beat 2 + 4 (stride pattern)
+
+### RH progression
+- play rhythm of melody on 1 note
+- same thing, but that note can move to fit the chord
+- play melody using 2 notes (neighbor tones)
+- play chords in RH with melody note on top (can start with whole notes)
+- play chords in RH with melody note + neighbor tone, making a 4 note chord (we didn't do this in the lesson, but would be a good step to practice)
+- play the actual melody of the tune, with the rest of the chord underneath (chord hits with all notes)
+- play chord only when you're playing the upper neighbor melody note (so your 4th finger will play by itself, and your 1,2,5 fingers will play together)
+
+### practice tips
+- mix and match these 2 progressions freely
+- experiment with different tempos, especially very slow
+- loop small sections at a time
+
+### soloing
+- practice soloing over a simplified progression: Ab, F7, Bb-, Eb7 (2 bars each)
+- some soloing concepts:
+- solo only with whole notes, only changin the note if it sounds bad with the chord, or if you really hear it moving
+- next, add rhythm so that you're only playing 1 note per chord, but with rhythm
+- next, experiment with neighbor tones (still thinking about 1 note per chord)
+
 ## April 8
 
 ### King Porter Stomp exercises
