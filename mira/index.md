@@ -1,5 +1,13 @@
 # Mira's Mailbox
 
+## May 7
+
+- Let's decide by this Saturday if you'd like to perform in the Spring Recital -- send me a email/text letting me know
+- Start each practice session by doing a cold performance run -- imagine like you're in a performance, and play the tune from beginning to end with no stopping or starting over
+- The way this might look for our tune: Play head, improvise over simplified chord progression (Ab F7 Bb- Eb7), play head out
+- Start working on stomp section if you can get through this arrangement without issues
+- Let me know if you'd like to schedule an extra lesson this week over Zoom (no cost, since I owe you time)
+
 ## April 30
 
 ### LH progression
