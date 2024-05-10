@@ -1,5 +1,16 @@
 # Hailee's Mailbox
 
+## May 9
+
+### Few thoughts for this week
+- Keep up doing performance runs every day this week. See if you can record yourself and listen back to identify spots that need work.
+
+### It's Too Late: Live Performances
+- watch for inspiration, pay special attention to Carole King's singing this week and see what ideas you can grab onto
+- [1](https://youtube.com/watch?v=hqwLrJ6QWho)
+- [2](https://youtube.com/watch?v=06GRMBi4jEk)
+- [3](https://youtube.com/watch?v=YkOik48rm-Q)
+
 ## April 26
 
 "It's Too Late" backing tracks
