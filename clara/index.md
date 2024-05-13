@@ -1,5 +1,10 @@
 # Clara's Mailbox
 
+## May 13
+
+- [backing track (doesn't include the solo piano intro)](./back.mp3)
+- [example of constant eighth note exercise](./eighth.mp3)
+
 ## April 29
 
 - Do a run through of the tune every day at the beginning of your practice session. Imagine like you're in the performance, if you make a mistake it's OK just keep going.
