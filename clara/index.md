@@ -2,7 +2,7 @@
 
 ## May 13
 
-- [backing track (doesn't include the solo piano intro)](./back.mp3)
+- [backing track (doesn't include the solo piano intro)](./output.mp3)
 - [example of constant eighth note exercise](./eighth.mp3)
 
 ## April 29
