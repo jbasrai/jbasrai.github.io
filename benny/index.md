@@ -1,5 +1,17 @@
 # Benny's Mailbox
 
+## May 16
+- [Performance run of C JAM BLUES](./run.mp3)
+
+Form:
+- head x 2
+- Benny solo x 2
+- Dani solo x 2
+- on Dani's 2nd chorus start riff
+- Dani joins in riff for 1 more chorus
+- head out x 2, trading
+- big ending chord
+
 ## April 30
 - Performance ready for recital in 2 weeks: being able to play the head/melody of C JAM BLUES and being able to improvise on it
 - [C JAM BLUES backing track](./c.mp3)
