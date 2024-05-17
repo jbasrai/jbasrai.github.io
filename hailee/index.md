@@ -1,5 +1,10 @@
 # Hailee's Mailbox
 
+## May 16
+
+- "It's Too Late" - start your solo off nice and easy, so that you feel in control, and to give yourself something to build on
+- ["Same God" key change](./samegod.mp3)
+
 ## May 9
 
 ### Few thoughts for this week
