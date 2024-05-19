@@ -1,5 +1,12 @@
 # Madelyn's Mailbox
 
+## May 19
+
+Practice accompanying the backing tracks below
+
+- [beauty and the beast backing track](./beauty.mp3)
+- [morning backing track](./morning.mp3)
+
 ## April 26
 
 Nice to meet you Madelyn! Here are a couple of things to help with practice this week.
