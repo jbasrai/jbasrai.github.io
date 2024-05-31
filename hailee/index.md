@@ -1,5 +1,12 @@
 # Hailee's Mailbox
 
+## May 30
+
+### Drone tracks
+- [C DRONE](./c.mp3)
+- [G DRONE](./g.mp3)
+- [F DRONE](./f.mp3)
+
 ## May 16
 
 - "It's Too Late" - start your solo off nice and easy, so that you feel in control, and to give yourself something to build on
