@@ -1,5 +1,13 @@
 # Clara's Mailbox
 
+## June 3
+
+### "Beautiful" Playalongs
+
+- [normal speed](./beautiful100.mp3)
+- [medium](./beautiful90.mp3)
+- [slow](./beautiful75.mp3)
+
 ## May 13
 
 - [backing track (doesn't include the solo piano intro)](./output.mp3)
