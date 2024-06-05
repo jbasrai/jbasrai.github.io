@@ -17,6 +17,8 @@
 - [It's Too Late - Carole King](https://youtu.be/e7XRO0f6lks)
 - [King Porter Stomp - Jelly Roll Morton](https://youtu.be/qUpU6qYPwL4)
 
+## About
+
 I love teaching kids of all ages and musical backgrounds. My priority is helping students become well-rounded musicians who enjoy playing music for life.  I believe that everybody is more than capable of achieving this, in the same way that everyone is capable of learning a language or learning to play a sport. It does require a certain amount of commitment. The important ones are: 
 
 1) Access to an acoustic piano OR a high quality digital piano with weighted keys.
