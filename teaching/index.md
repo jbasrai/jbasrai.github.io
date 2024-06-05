@@ -1,12 +1,13 @@
 # Jauhar's Music Studio
 
 ## Location
-Morningside Presbyterian Church
-1201 Dorothy Ln, Fullerton, CA 92831
-[google maps link](https://maps.app.goo.gl/oQCs4vdMDz6MtLHD7)
+- Morningside Presbyterian Church
+- 1201 Dorothy Ln, Fullerton, CA 92831
+- [google maps link](https://maps.app.goo.gl/oQCs4vdMDz6MtLHD7)
 
 ## Rates
-$65/hour - price negotiable, see below
+- $65/hour 
+- price negotiable, see below
 
 ## Contact
 - jauhar.b@gmail.com
