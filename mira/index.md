@@ -4,7 +4,7 @@
 
 ### Example practice plan
 
-* This is a nice structured 20 minute practice session. Would be really nice to do this consistently every day, this would set a really good foundation.
+* This is a nice structured 20-30 minute practice session. Would be really nice to do this consistently every day.
 * Drum backing track is the "Drumgenius" app
 * Drone tracks are "Musician's Practice Partner Cello Drones"
 
@@ -32,11 +32,14 @@ These are various things to practice. Move slowly through the list, maybe coveri
 
 - Melody of tune
 - Bass movement
-- Melody + bass. [Example](./
+- Melody + bass. [Example](./m+b.mp3)
 - Bass in LH, sing 3rd of chord (or play in RH). [Example over Sunny Side of the Street](./3.mp3)
 - Bass in LH, sing voice lead lines (top note stays or only moves by a half/whole step). Top note will try to be the 3rd of the chord, or some kind of suspension leading into the 3rd of next chord. [Example starting on G](./vl.mp3)
 - Do it in the other inversion, by starting on the 7th of the first chord. [Example starting on C](./vli.mp3)
 - Put both voices together to form 2 note chords. Keep an awareness of the voice leading. Practice other inversion also. [Example](./2c.mp3)
+
+#### Work on another tune (10 min)
+- Same as above. If you were focusing on melody before, maybe switch to harmony or vice versa.
 
 ## May 7
 
