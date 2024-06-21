@@ -1,5 +1,41 @@
 # Mira's Mailbox
 
+## June 21
+
+### Example practice plan
+
+* Drum backing track is the "Drumgenius" app
+* Drone tracks are "Musician's Practice Partner Cello Drones"
+
+#### Drone warmup (5 min)
+- Put on a [drone](https://youtube.com/watch?v=MimVnBAuYqA)
+- Sing the 1
+- Sing resolutions to 1, e.g. 7->1, 2->1
+- Sing the 3
+- Sing resolutions to 3, e.g. 4->3, 2->3
+- Slow improvisation, keeping some attention on how notes feel when they suspend and resolve
+
+#### V7->I progression (5 min)
+- Play 5 in bass with LH, sing 4
+- Then, play 1 in bass, sing 3, and notice the feeling of that resolution
+- Play 5 with LH, sing 7
+- Then, play 1 with LH, sing 1, notice that resolution
+- Play 5 LH, 4 & 7 RH ==> 1 LH, 3 & 1 RH
+- Also the other inversion, 7 & 4 in RH
+- Slow improvisation going between these 2 chords, feeling tension over V7 chord and release on the I chord
+- You can free up RH to improvise, by moving all the notes to the LH
+- Example in key of Bb: V7: Eb F A => I: D F Bb. [Example improvisation](./v7.mp3)
+
+#### Work on a tune (10 min)
+These are various things to practice. Move slowly through the list, maybe covering just 1 or 2 topics per day. Aim to really master these, so you can do them without thinking. Break tune up into smaller sections so that there's no part of the tune that feels iffy.
+
+- Melody of tune
+- Bass movement
+- Bass in LH, sing 3rd of chord (or play in RH). [Example over Sunny Side of the Street](./3.mp3)
+- Bass in LH, sing voice lead lines (top note stays or only moves by a half/whole step). Top note will try to be the 3rd of the chord, or some kind of suspension leading into the 3rd of next chord. [Example starting on G](./vl.mp3)
+- Do it in the other inversion, by starting on the 7th of the first chord. [Example starting on C](./vli.mp3)
+- Put both voices together to form 2 note chords. Keep an awareness of the voice leading. Practice other inversion also. [Example](./2c.mp3)
+
 ## May 7
 
 - Let's decide by this Saturday if you'd like to perform in the Spring Recital -- send me a email/text letting me know
