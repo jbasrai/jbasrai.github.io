@@ -9,7 +9,7 @@
 * Drone tracks are "Musician's Practice Partner Cello Drones"
 
 #### Drone warmup (5 min)
-- Put on a [drone](https://youtube.com/watch?v=MimVnBAuYqA)
+- Put on a [drone](https://youtube.com/watch?v=UfY3u7xvgf8)
 - Sing the 1
 - Sing resolutions to 1, e.g. 7->1, 2->1
 - Sing the 3
