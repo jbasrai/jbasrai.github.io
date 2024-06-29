@@ -1,5 +1,10 @@
 # Hailee's Mailbox
 
+## June 28
+
+- [I Need Thee Every Hour](./hymn.mp3)
+- [Blossom Dearie](https://youtube.com/watch?v=pETdS7_wXHU) - I listened to this album recently and really liked it. Blossom Dearie plays piano + sings on this one. It should be on Apple Music too if you want to listen to it in the car.
+
 ## May 30
 
 ### Drone tracks
