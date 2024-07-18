@@ -5,6 +5,7 @@
 - [Sonatina No. 1 by Muzio Clementi](https://youtube.com/watch?v=4ZkL5PcUnR8)
 
 ### Someone Like You
+- I'm using the inversions of the chords that mostly closely match the recording
 - [verse](./verse.mp3)
 - [prechorus](./prechorus.mp3) - chords: E, F#, D (chord timing is a bit different than verse/chorus)
 - [chorus](./chorus.mp3)
