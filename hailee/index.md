@@ -2,6 +2,7 @@
 
 ## July 15
 
+### Sonatina
 - [Sonatina No. 1 by Muzio Clementi](https://youtube.com/watch?v=4ZkL5PcUnR8)
 
 ### Someone Like You
@@ -9,6 +10,10 @@
 - [verse](./verse.mp3)
 - [prechorus](./prechorus.mp3) - chords: E, F#, D (chord timing is a bit different than verse/chorus)
 - [chorus](./chorus.mp3)
+
+### Listening this week
+- [John Prine](https://youtube.com/watch?v=7lHkugF0nyI) - Listen for the guitar playing on this record, we use a lot of these figures and rhythms on the piano also
+
 
 ## June 28
 
