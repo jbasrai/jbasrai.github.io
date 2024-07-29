@@ -1,5 +1,9 @@
 # Hailee's Mailbox
 
+## July 29
+- [ear training test: slow resolutions](./ear.mp3) - identify each resolution that starts on the 1, 3, or 5
+- [woody guthrie - this land is your land](./land.mp3)
+
 ## July 15
 
 ### Sonatina
