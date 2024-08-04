@@ -1,5 +1,11 @@
 # Madelyn's Mailbox
 
+## August 3
+
+- ["Beauty and the Beast" recording](./beauty.mp3)
+- [You've Got A Friend In Me (Randy Newman)](https://youtube.com/watch?v=0hG-2tQtdlE)
+- [piano version](https://youtube.com/watch?v=Pxe0sRyQWkI)
+
 ## July 27
 
 ### Morning
