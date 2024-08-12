@@ -1,5 +1,10 @@
 # Hailee's Mailbox
 
+## August 12
+- [ear training quiz: single tones](./ear.mp3) - Identify each pitch, either 1, 3, or 5 (key of Eb). Write down your guesses the first time through, and then check it with the piano afterwards. Practice singing any pitches that you're having trouble identifying. Repeat this quiz whenever you sit down to practice, until you're getting 100% and feeling confident.
+- [backing track for improvisation (key of Eb)](./backing.mp3) - Think about target notes this week.
+- [example improvisation](./improv.mp3)
+
 ## July 29
 - [ear training test: slow resolutions](./ear.mp3) - identify each resolution that starts on the 1, 3, or 5. Write down your guesses, and then check with the piano afterwards (key of C)
 - [woody guthrie - this land is your land](./land.mp3)
