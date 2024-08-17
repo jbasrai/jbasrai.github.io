@@ -1,5 +1,12 @@
 # Madelyn's Mailbox
 
+## August 16
+
+### "You've Got A Friend" Backing Tracks
+- [normal speed](./friend100.mp3)
+- [slightly slower](./friend85.mp3)
+- [slow](./friend70.mp3)
+
 ## August 3
 
 - ["Beauty and the Beast" recording](./beauty.mp3)
