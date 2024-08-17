@@ -1,5 +1,19 @@
 # Xavier's Mailbox
 
+## August 16
+
+### This Land Is Your Land
+- [This Land Is Your Land (original by Woody Guthrie)](./land.mp3)
+- [piano version](./piano.mp3)
+- [play simplified melody this week](./simple.mp3)
+- [notes](./landnotes.png)
+
+### The Little People Work (Jawa Theme)
+- [original recording](./little.mp3)
+- [piano version](./littlepiano.mp3)
+- [LH notes](./lh.png)
+- [RH notes](./rh.png)
+
 ## April 8
 
 ### Lesson notes
