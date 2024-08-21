@@ -4,7 +4,10 @@
 ### Back To December
 - [chorus normal speed](./dec100.mp3)
 - [chorus slower](./dec80.mp3)
-- [back to december with piano](https://www.youtube.com/watch?v=8yrwuWijBHE)
+
+### Some listening for this week
+- ["The Single Petal Of A Rose" by Duke Ellington](https://youtube.com/watch?v=qxNdgCGc7Bw)
+- ["Back To December" acoustic version](https://www.youtube.com/watch?v=8yrwuWijBHE)
 
 ### Take a look at last week's stuff ⬇️
 
