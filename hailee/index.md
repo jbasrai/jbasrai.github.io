@@ -1,5 +1,13 @@
 # Hailee's Mailbox
 
+## August 19
+### Back To December
+- [chorus normal speed](./dec100.mp3)
+- [chorus slower](./dec80.mp3)
+- [back to december with piano](https://www.youtube.com/watch?v=8yrwuWijBHE)
+
+### Take a look at last week's stuff ↓
+
 ## August 12
 - [ear training quiz: single tones](./ear.mp3) - Identify each pitch, either 1, 3, or 5 (key of Eb). Write down your guesses the first time through, and then check it with the piano afterwards. Practice singing any pitches that you're having trouble identifying. Repeat this quiz whenever you sit down to practice, until you're getting 100% and feeling confident.
 - [backing track for improvisation (key of Eb)](./backing.mp3) - Think about target notes this week.
