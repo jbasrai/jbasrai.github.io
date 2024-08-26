@@ -3,7 +3,7 @@
 ## August 25
 
 ### You've Got A Friend sheet music
-- [PDF](./friend.pdf) - don't worry if there are some parts of this that don't make sense, we'll cover in the lesson. I mostly wanted you to have the notes for the melody for this week.
+- [PDF](./friend.pdf) - Don't worry if there are some parts of this that don't make sense, like the chords or rhythms, we'll cover in the lesson. I mostly wanted you to have the notes for the melody for this week. Notice how most of the notes are derived from the Eb triad: Eb G Bb, with 2 notes added "F" (the 2) and "C" (the 6) to "glue" the triad together. So the note collection to keep in mind is Eb F G Bb C (1 2 3 5 6)
 
 ## August 16
 
