@@ -1,5 +1,10 @@
 # Madelyn's Mailbox
 
+## August 25
+
+### You've Got A Friend sheet music
+- [PDF](./friend.pdf) - don't worry if there are some parts of this that don't make sense, we'll cover in the lesson. I mostly wanted you to have the notes for the melody for this week.
+
 ## August 16
 
 ### "You've Got A Friend" Backing Tracks
