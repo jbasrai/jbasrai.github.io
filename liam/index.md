@@ -17,6 +17,7 @@
 - [simple "level 1" version](./1.mp3)
 - [level 2](./2.mp3)
 - [level 3](./3.mp3)
+- [sheet music](./sheet.pdf)
 
 ### Extra listening
 - These are examples of the "left hand stride" style that we're learning for King Porter Stomp
