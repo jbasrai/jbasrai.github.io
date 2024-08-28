@@ -1,5 +1,15 @@
 # Mira's Mailbox
 
+## August 27
+### Backing tracks
+- [peace piece](./peace.mp3)
+- [waltz](./waltz.mp3)
+
+### Extra listening
+- [Peace Piece (Bill Evans)](https://youtube.com/watch?v=Nv2GgV34qIg)
+- [Flamenco Sketches from Kind of Blue](https://youtube.com/watch?v=nTwp1sgUJrM)
+- [Blossom Dearie](https://youtube.com/watch?v=pETdS7_wXHU) - more off topic but I think you'll like this album
+
 ## June 21
 
 ### Example practice plan
