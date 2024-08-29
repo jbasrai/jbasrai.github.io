@@ -9,4 +9,4 @@ I have some examples on [this page](/simple). If you'd like more song ideas, che
 Also here is some extra listening with some songs you might enjoy. Feel free to dig into these artists for more similar music.
 
 - [Anomalie](https://youtube.com/watch?v=3y_gZYRm05o)
-_ [Kiefer](https://youtube.com/watch?v=1vXjhfTloHo)
+- [Kiefer](https://youtube.com/watch?v=1vXjhfTloHo)
