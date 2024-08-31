@@ -1,5 +1,25 @@
 # Hailee's Mailbox
 
+## August 30
+
+### Note Reading Practice
+- play through song at end of Alfred lesson book
+
+### Beauty and the Beast
+- keep working on solo piano version
+- balance LH chords with RH melody, chords support melody
+- practice chords to second half
+- talked about adding color to the D Major chord by replacing the 1 with the 2 in the chord. The bass note is still D, but the chord changes from D F# A => E F# A
+
+### Back To December
+- work on accompanying yourself while you sing the chorus
+- talked about adding color to the A Major chord by changing the 3 to the 4. So A C# E becomes A D E (and then you can resolve D => C# the next time you play the chord)
+- print out lyrics to verse, underline downbeats, and bring to lesson
+
+### Sonatina
+- polish up last 4 bars of the A section
+- practice with the metronome and try to get whole song to 120bpm
+
 ## August 19
 ### Back To December
 - [chorus normal speed](./dec100.mp3)
