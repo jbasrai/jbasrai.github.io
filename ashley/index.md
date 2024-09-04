@@ -1,5 +1,14 @@
 # Ashley's Mailbox
 
+## September 4
+
+Here are a couple classical pieces that might be fun to learn. Give them a listen, and maybe we can start working on one of them in the next lesson.
+
+- [Chopin Waltz No. 19 in A minor](https://www.youtube.com/watch?v=n-voZrgjUVc)
+- [Clementi Sonatina No. 6 in D Major](https://www.youtube.com/watch?v=oDlsG7C5PEs)
+
+Lastly, kind reminder to send me a couple of your own song ideas ahead of the next lesson. These can be from any genre.
+
 ## August 28
 
 Assignment this week: Learn simple tunes in the key of C. RH plays the melody, LH plays triads. You might need to experiment with your chord choice and the timing with the melody.
