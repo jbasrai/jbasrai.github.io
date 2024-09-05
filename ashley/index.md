@@ -11,7 +11,7 @@ Lastly, kind reminder to send me a couple of your own song ideas ahead of the ne
 
 ## August 28
 
-Assignment this week: Learn simple tunes in the key of C. RH plays the melody, LH plays triads. You might need to experiment with your chord choice and the timing with the melody.
+Assignment this week: Learn simple tunes in the key of C. RH plays the melody, LH plays triads. We will only use 3 triads right now: the 1, 4, and 5 (C Major, F Major, G Major).
 
 I have some examples on [this page](/simple). If you'd like more song ideas, check out "101 Gang Songs" by Bing Crosby.
 
