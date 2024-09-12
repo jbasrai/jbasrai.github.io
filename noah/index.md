@@ -1,5 +1,8 @@
 # Noah's Mailbox
 
+## September 12
+- [repeat after me](./911.mp3) - listen to the phrase and repeat it back (you'll be playing along with the higher piano part)
+
 ## August 30
 - improvise with "1 3 5" (C E G) over [backing track](./backing.mp3) (don't have to strictly follow this rule)
 - when you're improvising, think of making "phrases", short musical sentences -- [example](./example.mp3). Phrases like to start and end on the "downbeat"

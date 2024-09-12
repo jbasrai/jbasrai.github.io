@@ -1,5 +1,8 @@
 # Liam's Mailbox
 
+## September 12
+- [repeat after me](./911.mp3) - listen to the phrase and repeat it back (you'll be playing along with the higher piano part)
+
 ## August 26
 
 ### Lesson summary

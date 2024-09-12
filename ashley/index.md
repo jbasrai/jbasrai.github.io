@@ -1,5 +1,8 @@
 # Ashley's Mailbox
 
+## September 12
+- [repeat after me](./911.mp3) - listen to the phrase and repeat it back (you'll be playing along with the higher piano part)
+
 ## September 4
 
 Here are a couple classical pieces that might be fun to learn. Give them a listen, and maybe we can start working on one of them in the next lesson.

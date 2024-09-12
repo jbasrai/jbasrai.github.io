@@ -1,5 +1,9 @@
 # Kaiden's Mailbox
 
+## September 12
+- [repeat after me](./911.mp3) - listen to the phrase and repeat it back (you'll be playing along with the higher piano part)
+- [answers to silent night melody](./silent.jpg)
+
 ## August 28
 
 Assignment this week: Learn simple melodies in the key of C.
