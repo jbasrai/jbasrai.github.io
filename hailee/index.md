@@ -2,6 +2,7 @@
 
 ## September 12
 - [repeat after me](./911.mp3) - listen to the phrase and repeat it back (you'll be playing along with the higher piano part)
+- [my favorite Christmas albums](/christmas)
 
 ## August 30
 
