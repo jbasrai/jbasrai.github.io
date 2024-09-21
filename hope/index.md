@@ -1,5 +1,9 @@
 # Hope's Mailbox
 
+## September 20
+
+- ["Jingle Bells" melody](./jingle.mp3)
+
 ## September 9
 - ["Mary Had A Little Lamb"](./mary.mp3) -- play the 2 note chords we learned while singing the melody -- chords are C E and B D, parent can play C and G underneath these respective chords
 - [keyboard note chart](https://www.lorenz.com/Files/Files/Lorenz/Products/Product_Images/PP314.jpg) --  Hope doesn't need to learn this yet, but can be useful for parent to help find notes

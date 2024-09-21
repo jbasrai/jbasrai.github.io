@@ -1,5 +1,14 @@
 # Landon's Mailbox
 
+## September 20
+### Ear training
+- Pause after each example and decide whether the phrase is moving upwards or downwards
+- [Track 1](./ear1.mp3)
+- [Track 2](./ear2.mp3)
+
+### Jingle Bells
+- [melody](./jingle.mp3)
+
 ## August 30
 - practice finding the note "C" on the piano
 - get comfortable finding "C"'s going up and down the keyboard
