@@ -3,6 +3,7 @@
 ## September 20
 
 - ["Jingle Bells" melody](./jingle.mp3)
+- [My favorite Christmas albums](/christmas) -- Let's start brainstorming what Christmas song we want to learn for the studio's Winter Recital in mid-December
 
 ## September 9
 - ["Mary Had A Little Lamb"](./mary.mp3) -- play the 2 note chords we learned while singing the melody -- chords are C E and B D, parent can play C and G underneath these respective chords

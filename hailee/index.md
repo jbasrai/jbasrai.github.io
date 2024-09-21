@@ -1,5 +1,9 @@
 # Hailee's Mailbox
 
+## September 20
+- [My favorite Christmas albums](/christmas) -- If possible, could you make this into an Apple Music playlist for me?
+
+
 ## September 12
 - [repeat after me](./911.mp3) - listen to the phrase and repeat it back (you'll be playing along with the higher piano part)
 - [my favorite Christmas albums](/christmas)

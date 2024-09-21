@@ -6,8 +6,9 @@
 - [Track 1](./ear1.mp3)
 - [Track 2](./ear2.mp3)
 
-### Jingle Bells
-- [melody](./jingle.mp3)
+### Christmas Music
+- ["Jingle Bells" melody](./jingle.mp3)
+- [My favorite Christmas albums](/christmas) -- Let's start brainstorming what Christmas song we want to learn for the studio's Winter Recital in mid-December
 
 ## August 30
 - practice finding the note "C" on the piano

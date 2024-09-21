@@ -1,5 +1,14 @@
 # Ashley's Mailbox
 
+## September 20
+### Shinunoga E-wa Backing Tracks
+- [slow version](./slow.mp3)
+- [normal tempo](./fast.mp3)
+
+### Christmas
+- [My favorite Christmas albums](/christmas) -- Let's start brainstorming what Christmas song we want to learn for the studio's Winter Recital in mid-December
+
+
 ## September 12
 - [repeat after me](./911.mp3) - listen to the phrase and repeat it back (you'll be playing along with the higher piano part)
 
