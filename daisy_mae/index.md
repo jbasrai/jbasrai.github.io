@@ -2,6 +2,7 @@
 
 ## September 20
 - [My favorite Christmas albums](/christmas) -- Let's start brainstorming what Christmas song we want to learn for the studio's Winter Recital in mid-December
+- ["Jingle Bells" melody](./jingle.jpg)
 
 
 ## September 9

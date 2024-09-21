@@ -2,7 +2,7 @@
 
 ## September 20
 
-- ["Jingle Bells" melody](./jingle.mp3)
+- ["Jingle Bells" melody](./jingle.jpg)
 - [My favorite Christmas albums](/christmas) -- Let's start brainstorming what Christmas song we want to learn for the studio's Winter Recital in mid-December
 
 ## September 9
