@@ -1,5 +1,8 @@
 # Xavier's Mailbox
 
+## September 20
+- [My favorite Christmas albums](/christmas) -- Let's start brainstorming what Christmas song we want to learn for the studio's Winter Recital in mid-December
+
 ## August 16
 
 ### This Land Is Your Land

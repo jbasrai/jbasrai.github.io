@@ -1,5 +1,8 @@
 # Liam's Mailbox
 
+## September 20
+- [My favorite Christmas albums](/christmas) -- Let's start brainstorming what Christmas song we want to learn for the studio's Winter Recital in mid-December
+
 ## September 12
 - [repeat after me](./911.mp3) - listen to the phrase and repeat it back (you'll be playing along with the higher piano part)
 
