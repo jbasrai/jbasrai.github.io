@@ -1,6 +1,6 @@
 # My favorite Christmas albums
 ## Spotify Playlist
-https://open.spotify.com/playlist/5OKdBXkGdLdHXcwfz6qiI7?si=I__zdYLVTy6H7pO5zr9sVA&pi=u-EU14aJhQSIu6
+- [https://open.spotify.com/playlist/5OKdBXkGdLdHXcwfz6qiI7?si=I__zdYLVTy6H7pO5zr9sVA&pi=u-EU14aJhQSIu6](https://open.spotify.com/playlist/5OKdBXkGdLdHXcwfz6qiI7?si=I__zdYLVTy6H7pO5zr9sVA&pi=u-EU14aJhQSIu6)
 
 ## Apple Music Playlist
 Still working on it
