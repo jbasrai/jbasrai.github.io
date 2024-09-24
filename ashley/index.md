@@ -1,5 +1,12 @@
 # Ashley's Mailbox
 
+## September 23
+### Beauty And The Beast
+- [page 1](./p1.jpg)
+- [page 2](./p2.jpg)
+- [page 3](./p3.jpg)
+- [page 4](./p4.jpg)
+
 ## September 20
 ### Shinunoga E-wa Backing Tracks
 - [slow version](./slow.mp3)
