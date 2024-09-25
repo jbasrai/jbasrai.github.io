@@ -1,5 +1,9 @@
 # Kaiden's Mailbox
 
+## September 24
+### Mockingbird
+- [quarter notes, half notes, eighth notes](./rhythms.jpg)
+
 ## September 20
 ### Mockingbird backing tracks
 - [slow version](./slow.mp3)
