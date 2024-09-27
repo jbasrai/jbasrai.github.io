@@ -1,5 +1,13 @@
 # Xavier's Mailbox
 
+## September 27
+### Jingle Bells
+- [backing track](./jingle backing.mp3)
+
+### Xavier's Halloween Song
+- [singing lyrics](./halloween singing.mp3)
+- [instrumental version](./halloween playing.mp3)
+
 ## September 20
 - [My favorite Christmas albums](/christmas) -- Let's start brainstorming what Christmas song we want to learn for the studio's Winter Recital in mid-December
 
