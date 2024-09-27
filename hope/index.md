@@ -1,5 +1,28 @@
 # Hope's Mailbox
 
+## September 26
+### Lesson Plan
+#### Repeat After Me
+- parent says/sings note numbers (1-5) and Hope plays it back
+- it can be fun to switch roles too
+- try to have Hope use her thumb to play "1"
+
+#### Jingle Bells
+- focus on learning first half of the tune (ending on "Jingle all the way")
+- sing the words while playing
+- [backing track](./jingle backing.mp3)
+
+#### Compose a Christmas tune
+- bring some words into the next lesson that could be used to start a Christmas tune (1 or 2 phrases)
+
+### Example practice plan
+- set 5 minute timer
+- start with some "Repeat After Me"
+- play Jingle Bells with backing track
+- spend a few minutes working on any weak spots
+- some free play to end the lesson, Hope's choice
+
+
 ## September 20
 
 - ["Jingle Bells" melody](./jingle.jpg)
