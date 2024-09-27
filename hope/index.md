@@ -1,7 +1,7 @@
 # Hope's Mailbox
 
 ## September 26
-### Lesson Plan
+### Lesson Notes
 #### Repeat After Me
 - parent says/sings note numbers (1-5) and Hope plays it back
 - it can be fun to switch roles too
