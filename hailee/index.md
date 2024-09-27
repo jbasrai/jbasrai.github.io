@@ -1,5 +1,10 @@
 # Hailee's Mailbox
 
+## September 26
+- ["Yellow" (key of C)](./yellow.mp3)
+- [backing track](./yellow backing.mp3)
+- Would you be able to email me the Christmas music playlist that you made?
+
 ## September 20
 - [My favorite Christmas albums](/christmas) -- If possible, could you make this into an Apple Music playlist for me?
 
