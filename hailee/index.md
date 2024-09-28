@@ -3,6 +3,7 @@
 ## September 26
 - ["Yellow" (key of C)](./yellow.mp3)
 - [backing track](./yellow backing.mp3)
+- ["Mary Did You Know" by Kristin Chenoweth](https://www.youtube.com/watch?v=4wQEbiDPpPw)
 - Would you be able to email me the Christmas music playlist that you made?
 
 ## September 20
