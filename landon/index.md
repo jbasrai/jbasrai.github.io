@@ -1,5 +1,8 @@
 # Landon's Mailbox
 
+## September 30
+- ["I Believe I Can Fly"](./fly.jpg)
+
 ## September 20
 ### Ear training
 - Pause after each example and decide whether the phrase is moving upwards or downwards
