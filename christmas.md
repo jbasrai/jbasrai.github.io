@@ -3,7 +3,7 @@
 - [https://open.spotify.com/playlist/5OKdBXkGdLdHXcwfz6qiI7?si=I__zdYLVTy6H7pO5zr9sVA&pi=u-EU14aJhQSIu6](https://open.spotify.com/playlist/5OKdBXkGdLdHXcwfz6qiI7?si=I__zdYLVTy6H7pO5zr9sVA&pi=u-EU14aJhQSIu6)
 
 ## Apple Music Playlist
-Still working on it
+- [https://music.apple.com/us/playlist/jauhars-favorite-christmas-album/pl.u-06oxDgysJJ1LkJ](https://music.apple.com/us/playlist/jauhars-favorite-christmas-album/pl.u-06oxDgysJJ1LkJ)
 
 ## Direct links
 - ["A Dave Brubeck Christmas" by Dave Brubeck](https://www.youtube.com/watch?v=Bx0Oy3jGovc&list=OLAK5uy_mSbwhnnzJfmrTH8ASiivW8ve6QK2AC43o&index=2)
