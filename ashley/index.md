@@ -1,5 +1,11 @@
 # Ashley's Mailbox
 
+## September 30
+### Couple hip hop dancers I like
+- [MAIKA](https://www.youtube.com/watch?v=btYMEt8kJy0)
+- [UMA](https://www.youtube.com/watch?v=MLovWSWlk_o)
+- [Soul](https://www.youtube.com/watch?v=OQcFyzb66Xs)
+
 ## September 23
 ### Beauty And The Beast
 - [page 1](./p1.jpg)
