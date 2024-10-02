@@ -17,8 +17,6 @@
 ### Jingle Bells
 - [written notes](./jingle.jpg)
 
-### Jingle Bells
-
 ## September 24
 ### Silent Night
 - [backing track](./silent.mp3)
