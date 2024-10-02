@@ -1,5 +1,24 @@
 # Kaiden's Mailbox
 
+## October 1
+### Ear training
+- [tape 1](./tape1.mp3)
+- [tape 2 (do this later in the week when tape 1 feels easy)](./tape2.mp3)
+
+### Mockingbird
+- [slow chorus](./chorus.mp3)
+- play along with this backing track and lock in with the rhythms
+
+### Silent Night
+- keep polishing up block chords + melody (spend some time hands separate)
+- start to arpeggiate the chords
+- [example, in case you need help with any of the rhythms](./example.mp3)
+
+### Jingle Bells
+- [written notes](./jingle.jpg)
+
+### Jingle Bells
+
 ## September 24
 ### Silent Night
 - [backing track](./silent.mp3)
