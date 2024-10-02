@@ -10,9 +10,8 @@
 - play along with this backing track and lock in with the rhythms
 
 ### Silent Night
-- keep polishing up block chords + melody (spend some time hands separate)
-- start to arpeggiate the chords
-- [example, in case you need help with any of the rhythms](./example.mp3)
+- keep polishing up block chords + melody (spend some time hands separate, make the melody sound really pretty by itself)
+- start to arpeggiate the chords, [example, in case you need to check any rhythms](./example.mp3)
 
 ### Jingle Bells
 - [written notes](./jingle.jpg)
