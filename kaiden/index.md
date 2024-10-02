@@ -7,7 +7,8 @@
 
 ### Mockingbird
 - [slow chorus](./chorus.mp3)
-- play along with this backing track and lock in with the rhythms
+- practice clapping the rhythms
+- then play notes when clapping feels solid
 
 ### Silent Night
 - keep polishing up block chords + melody (spend some time hands separate, make the melody sound really pretty by itself)
