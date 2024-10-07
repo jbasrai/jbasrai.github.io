@@ -12,11 +12,11 @@
 - [Notes page 1](./p1.jpg)
 - [Notes page 2](./p2.jpg)
 
-## I Want A Hippopotamus For Christmas
-- Start learning words to the song
+### I Want A Hippopotamus For Christmas
+- Start learning words to the song, maybe we can start on this next week
 
 ### Recital tune
-- Decide early this week which recital tune you'd like to work on, and let me know. Options we discussed: Lonely Boy, Alouette. Also feel free to just come and watch if you're not comfortable playing anything.
+- Decide early this week which recital tune you'd like to work on, and let me know. Options we discussed: Lonely Boy, Alouette.
 
 ## September 30
 - [Korg TM-60 Metronome](https://www.amazon.com/KO-TM60WH-TM-60-Combo-Metronome-Screen/dp/B077SMP29M/ref=sr_1_1?crid=2YR6KTX67A56M&dib=eyJ2IjoiMSJ9.L0YLqtAuYbRI-ii9MQpLqGKk2In0pJeL6BJK4G32K1NLoSsC9RJ5aENDdLXR5oiQ8lVif1tcldskjSf61HcNFhIIRGRFyDEz3s51rq_g0p4Zyjb27o6yZSW5H4qQ4k-WbE-FIcSUVTyaoUmcNg289L4GzwiAE9CBxr_3vPKFuOt30L0RPbOMJKs6tk9r4Ol_WBJ6AJw47LIY6GNdNHAR2p463i_rH_Vx_UZM-ki4kkIwNy7XT0F5aafaUzqEdpKlEzUR0mKNYlTzLWdM0nwqcNaFZZ3xQ82nG1XM66ktBbY.K6FUPk8IDqK1T4Qtu7MoNDy4NA7KmMA9httG05z0wY8&dib_tag=se&keywords=korg+tm+60&qid=1727757523&sprefix=korg+tm+%2Caps%2C145&sr=8-1)
