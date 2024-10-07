@@ -1,5 +1,19 @@
 # Landon's Mailbox
 
+## October 7
+### I Believe I Can Fly
+- Clap words while singing
+- Then play notes while singing
+- Practice jamming with the song using the notes 1-5
+- [backing track](./fly.mp3)
+
+### Rudolph The Red-Nose Reindeer
+- Start learning to sing the words to the song
+
+### Recital tune
+- Let's prepare "Mary Had A Little Lamb" for the recital
+- Practice melody by itself, then play along with [backing track](./mary.mp3)
+
 ## September 30
 - ["I Believe I Can Fly"](./fly.jpg)
 
