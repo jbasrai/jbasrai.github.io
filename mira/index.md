@@ -1,5 +1,12 @@
 # Mira's Mailbox
 
+## October 7
+### Immortals
+- [page 1](./p1.jpg)
+- [page 2](./p2.jpg)
+- [page 3](./p3.jpg)
+- [page 4](./p4.jpg)
+
 ## September 20
 - [My favorite Christmas albums](/christmas) -- Let's start brainstorming what Christmas song we want to learn for the studio's Winter Recital in mid-December
 

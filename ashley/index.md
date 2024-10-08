@@ -1,5 +1,9 @@
 # Ashley's Mailbox
 
+## October 7
+### Shinunoga E-wa
+- [example improvisation](./example.mp3) -- I take a short, simple phrase then develop it
+
 ## September 30
 ### Couple hip hop dancers I like
 - [MAIKA](https://www.youtube.com/watch?v=btYMEt8kJy0)
