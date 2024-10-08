@@ -1,5 +1,20 @@
 # Daisy Mae's Mailbox
 
+## October 7
+### Repeat After Me
+- include notes 5-6-7-1 (in addition to 1-2-3-4-5)
+- do some saying the numbers out loud, and some just playing the notes
+
+### Old McDonald Had A Farm
+- play the melody while singing the words
+- work in small sections
+- ["Joy To The World](./joy.jpg)
+
+### Joy To The World
+- play the melody while singing the words
+- work in small sections
+- ["Old McDonald Had A Farm"](./mcdonald.jpg)
+
 ## September 30
 ### Lesson notes
 #### Repeat After Me
