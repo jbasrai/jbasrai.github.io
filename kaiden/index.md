@@ -1,5 +1,9 @@
 # Kaiden's Mailbox
 
+## October 8
+- [rhythm practice](./rhythm.jpg)
+- [play this rhythm game](https://kbhgames.com/game/rhythm-heaven-tengoku) -- default controls: "z" = A, "x" = B, "enter" = START
+
 ## October 1
 ### Ear training
 - [tape 1](./tape1.mp3)
