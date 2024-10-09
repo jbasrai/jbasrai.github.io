@@ -1,8 +1,8 @@
 # Kaiden's Mailbox
 
 ## October 8
-- [rhythm practice](./rhythm.jpg)
-- [play this rhythm game](https://kbhgames.com/game/rhythm-heaven-tengoku) -- default controls: "z" = A, "x" = B, "enter" = START
+- [rhythm practice](./rhythm.jpg) -- play with backing track for Mockingbird, make sure quarter notes are established first
+- [play this rhythm game](https://kbhgames.com/game/rhythm-heaven-tengoku) -- default controls: "z" = A, "x" = B, "enter" = START, remember to save often
 
 ## October 1
 ### Ear training
