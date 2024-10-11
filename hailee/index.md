@@ -1,5 +1,18 @@
 # Hailee's Mailbox
 
+## October 10
+### Under The Sea
+- [page 1](./mermaid1.jpg)
+- [page 2](./mermaid2.jpg)
+- [page 3](./mermaid3.jpg)
+- [page 4](./mermaid4.jpg)
+- [page 5](./mermaid5.jpg)
+- [page 6](./mermaid6.jpg)
+- [page 7](./mermaid7.jpg)
+- [page 8](./mermaid8.jpg)
+- [page 9](./mermaid9.jpg)
+- [page 10](./mermaid10.jpg)
+
 ## September 26
 - ["Yellow" (key of C)](./yellow.mp3)
 - [backing track](./yellow backing.mp3)
