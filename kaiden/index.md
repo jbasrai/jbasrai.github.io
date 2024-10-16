@@ -1,5 +1,10 @@
 # Kaiden's Mailbox
 
+## October 15
+- [slow chorus for mockingbird](./chorus.mp3)
+- [rhythm practice](./rhythm.jpg) -- set metronome and clap these rhythms
+- [rhythm heaven](https://kbhgames.com/game/rhythm-heaven-tengoku) -- default controls: "z" = A, "x" = B, "enter" = START, remember to save often
+
 ## October 8
 - [rhythm practice](./rhythm.jpg) -- play with backing track for Mockingbird, make sure quarter notes are established first
 - [play this rhythm game](https://kbhgames.com/game/rhythm-heaven-tengoku) -- default controls: "z" = A, "x" = B, "enter" = START, remember to save often
