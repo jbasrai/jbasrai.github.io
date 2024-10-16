@@ -1,5 +1,10 @@
 # Liam's Mailbox
 
+## October 14
+- Listen to [Vince Guaraldi's version of "O Tannenbaum"](./tanenbaum.mp3), specifically listening for how he plays chords and how he plays the melody
+- [Backing track, drums + bass](./tanenbaum_mix.mp3) -- practice playing chords in LH and melody in RH
+- I'd like to change the way we play the "1" chord. Instead of Eb Major 7 (Eb G Bb D) let's use a Eb Major 6 chord instead: Eb G Bb C. You can also use this inversion: G Bb C Eb.
+
 ## September 20
 - [My favorite Christmas albums](/christmas) -- Let's start brainstorming what Christmas song we want to learn for the studio's Winter Recital in mid-December
 
