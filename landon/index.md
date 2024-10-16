@@ -1,5 +1,9 @@
 # Landon's Mailbox
 
+## October 15
+- ["Rhythm Heaven"](https://kbhgames.com/game/rhythm-heaven-tengoku) -- default controls: "z" = A, "x" = B, "enter" = START, remember to save often
+- ["Rudolph the Red-Nosed Reindeer"](./rudolph.jpg)
+
 ## October 7
 ### I Believe I Can Fly
 - Clap words while singing

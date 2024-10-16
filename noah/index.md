@@ -1,5 +1,9 @@
 # Noah's Mailbox
 
+## October 15
+- ["Rhythm Heaven"](https://kbhgames.com/game/rhythm-heaven-tengoku) -- default controls: "z" = A, "x" = B, "enter" = START, remember to save often
+- ["I Want A Hippo"](./hippo.jpg) - try to figure out notes by yourself and then use this to check your answer or if you get too stuck
+
 ## October 7
 ### Jingle Bells
 - Practice playing melody with [backing track](./jingle.mp3) -- form: verse chorus
