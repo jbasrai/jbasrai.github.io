@@ -1,5 +1,8 @@
 # Kaiden's Mailbox
 
+## October 29
+- [drum track](https://www.youtube.com/watch?v=2fqzbwsy4nA)
+
 ## October 15
 - [slow chorus for mockingbird](./chorus.mp3)
 - [rhythm practice](./rhythm.jpg) -- set metronome and clap these rhythms
