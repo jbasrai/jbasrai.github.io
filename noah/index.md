@@ -12,7 +12,7 @@
 - play along with [this backing track](./sunshine.mp3)
 
 ### I Want A Hippo
-- [Updated music](./hippo2.jpg) - fixed notes in the last line
+- [Updated music](./hippo2.jpeg) - fixed notes in the last line
 
 ## October 15
 - ["Rhythm Heaven"](https://kbhgames.com/game/rhythm-heaven-tengoku) -- default controls: "z" = A, "x" = B, "enter" = START, remember to save often
