@@ -1,5 +1,19 @@
 # Noah's Mailbox
 
+## October 29
+### Rhythm exercise
+- Use [this backing track](./rhythm.mp3)
+- First, clap on the downbeat (beat 1)
+- Then, clap half notes (beats 1 and 3)
+- Then, clap quarter notes (every beat)
+- If this starts to feel easy, try this with a song
+
+### You Are My Sunshine
+- play along with [this backing track](./sunshine.mp3)
+
+### I Want A Hippo
+- [Updated music](./hippo2.jpg) - fixed notes in the last line
+
 ## October 15
 - ["Rhythm Heaven"](https://kbhgames.com/game/rhythm-heaven-tengoku) -- default controls: "z" = A, "x" = B, "enter" = START, remember to save often
 - ["I Want A Hippo"](./hippo.jpg) - try to figure out notes by yourself and then use this to check your answer or if you get too stuck
