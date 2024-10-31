@@ -1,5 +1,8 @@
 # Daisy Mae's Mailbox
 
+## October 31
+- [slow version of jack's lament](./lament.mp3)
+
 ## October 7
 ### Repeat After Me
 - include notes 5-6-7-1 (in addition to 1-2-3-4-5)
