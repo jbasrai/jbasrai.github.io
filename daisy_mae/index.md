@@ -1,7 +1,8 @@
 # Daisy Mae's Mailbox
 
 ## October 31
-- [slow version of jack's lament](./lament.mp3)
+- [slow version of "Jack's Lament"](./lament.mp3)
+- [slow version of "Linus and Lucy"](./linus.mp3)
 
 ## October 7
 ### Repeat After Me
