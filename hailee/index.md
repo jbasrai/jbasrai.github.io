@@ -1,6 +1,11 @@
 # Hailee's Mailbox
 
-## October 24
+## November 3
+### Under The Sea
+- [drum track (slow)](./drum_slow.mp3) 
+- [drum track (fast)](./drum_fast.mp3) 
+- [example accompaniment rhythm](./clave.mp3)
+- [example solo](./solo.mp3)
 
 
 ## October 10
