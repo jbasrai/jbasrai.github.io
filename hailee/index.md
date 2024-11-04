@@ -4,8 +4,12 @@
 ### Under The Sea
 - [drum track (slow)](./drum_slow.mp3) 
 - [drum track (fast)](./drum_fast.mp3) 
+- For a better quality version, use Drumgenius -> Brazilian -> Samba 2
 - [example accompaniment rhythm](./clave.mp3)
 - [example solo](./solo.mp3)
+
+## Linus and Lucy
+- [slightly slower version](./linus.mp3)
 
 
 ## October 10
