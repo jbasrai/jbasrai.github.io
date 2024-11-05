@@ -1,5 +1,11 @@
 # Ashley's Mailbox
 
+## November 4
+### What Child Is This
+- [Oscar Peterson](https://www.youtube.com/watch?v=uDANk3P4LL8)
+- [Geri Allen](https://www.youtube.com/watch?v=hyA8sE_xxXg)
+
+
 ## October 15
 ### Under The Sea
 - [page 1](./mermaid1.jpg)
