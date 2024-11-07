@@ -1,5 +1,24 @@
 # Daisy Mae's Mailbox
 
+## November 7
+### Linus And Lucy
+- clap rhythms with playalong track
+- then play on the piano
+
+### Joy To The World
+- learn 2nd phrase ("Let earth receive her king")
+- maybe start working on next phrase too ("Let every heart prepare him room")
+- [sheet music](./joy.jpg)
+- listen to some of the different recordings below
+- [https://www.youtube.com/watch?v=v44gcOkeJBU](recording 1)
+- [https://www.youtube.com/watch?v=l1zHFT4zsa8](recording 2)
+- [https://www.youtube.com/watch?v=GNvzNMFg_Fo](recording 3)
+- [https://www.youtube.com/watch?v=DLT9dSt8cwg](recording 4)
+
+### Playalong Tracks
+- ["Joy To The World"](./joy.mp3)
+- ["Linus and Lucy"](./linus.mp3)
+
 ## October 31
 - [slow version of "Jack's Lament"](./lament.mp3)
 - [slow version of "Linus and Lucy"](./linus.mp3)
