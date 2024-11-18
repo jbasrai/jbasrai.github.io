@@ -1,5 +1,8 @@
 # Liam's Mailbox
 
+## October 18
+- [backing track for "O Tanenbaum](./tanenbaum.wav)
+
 ## October 14
 - Listen to [Vince Guaraldi's version of "O Tannenbaum"](./tanenbaum.mp3), specifically listening for how he plays chords and how he plays the melody
 - [Backing track, drums + bass](./tanenbaum_mix.mp3) -- practice playing chords in LH and melody in RH
