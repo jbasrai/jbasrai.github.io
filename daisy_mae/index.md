@@ -7,6 +7,8 @@
 - clap rhythms with playalong track while saying note numbers
 - then play on piano
 
+### Bring Christmas song lyrics to next lesson
+
 ## November 7
 ### Joy To The World
 - learn 2nd phrase ("Let earth receive her king")
