@@ -1,9 +1,15 @@
 # Daisy Mae's Mailbox
 
+## November 23
+### Linus and Lucy
+- clap rhythms while saying note numbers
+
 ## November 7
 ### Linus And Lucy
-- clap rhythms with playalong track
-- then play on the piano
+- [slow playalong](./slow.mp3)
+- [faster playalong](./faster.mp3)
+- clap rhythms with playalong track while saying note numbers
+- then play on piano
 
 ### Joy To The World
 - learn 2nd phrase ("Let earth receive her king")
