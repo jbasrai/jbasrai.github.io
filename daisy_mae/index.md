@@ -2,15 +2,12 @@
 
 ## November 23
 ### Linus and Lucy
-- clap rhythms while saying note numbers
-
-## November 7
-### Linus And Lucy
 - [slow playalong](./slow.mp3)
 - [faster playalong](./faster.mp3)
 - clap rhythms with playalong track while saying note numbers
 - then play on piano
 
+## November 7
 ### Joy To The World
 - learn 2nd phrase ("Let earth receive her king")
 - maybe start working on next phrase too ("Let every heart prepare him room")
