@@ -1,5 +1,9 @@
 # Noah's Mailbox
 
+## November 25
+- Practice playing along with this [backing track](./hippo.mp3)
+- I think your piano is a bit out of tune, so [this track](./hippo2.mp3) might fit better
+
 ## October 29
 ### Rhythm exercise
 - Use [this backing track](./rhythm.mp3)
