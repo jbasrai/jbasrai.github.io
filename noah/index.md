@@ -1,5 +1,9 @@
 # Noah's Mailbox
 
+## Dec 3
+- [hippo backing track](./backing.mp3) -- this backing track is only 1 chorus, but we will perform 2 choruses of the song (trading in the 2nd chorus)
+- [example melody](./hippo.mp3)
+
 ## November 25
 - Practice playing along with this [backing track](./hippo.mp3)
 - I think your piano is a bit out of tune, so [this track](./hippo2.mp3) might fit better
