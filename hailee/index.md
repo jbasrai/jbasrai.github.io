@@ -1,5 +1,9 @@
 # Hailee's Mailbox
 
+## Dec 12
+- [bridge](./1.mp3)
+- [last chorus](./2.mp3)
+
 ## November 11
 ### Linus and Lucy Drum Tracks
 - [slower](./linus_drums_slow.mp3)
