@@ -1,5 +1,10 @@
 # Noah's Mailbox
 
+## Dec 12
+### Final thoughts leading into recital
+- Song is sounding great overall, bridge is only section that is a bit weak, spend some focused time on it
+- Play through the song in your head so that you're clear about the overall form: intro -> chorus 1 -> chorus 2 -> ending
+
 ## Dec 3
 - [hippo backing track](./backing.mp3) -- this backing track is only 1 chorus, but we will perform 2 choruses of the song (trading in the 2nd chorus)
 - [example melody](./hippo.mp3)

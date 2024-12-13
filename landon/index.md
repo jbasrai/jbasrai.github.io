@@ -1,5 +1,8 @@
 # Landon's Mailbox
 
+## Dec 12
+- Practice singing the words while playing the melody, this will help us not get lost in the middle of a phrase
+
 ## Dec 3
 - [rudolph backing track](./rudolph.mp3)
 
