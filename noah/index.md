@@ -2,7 +2,7 @@
 
 ## Dec 12
 ### Final thoughts leading into recital
-- Song is sounding great overall, bridge is only section that is a bit weak, spend some focused time on it
+- Song is sounding great overall, bridge is the only section that can use some more work, spend some focused time on it so that it's as easy to play as the verse
 - Play through the song in your head so that you're clear about the overall form: intro -> chorus 1 -> chorus 2 -> ending
 
 ## Dec 3
