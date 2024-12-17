@@ -1,5 +1,26 @@
 # Ashley's Mailbox
 
+## Dec 16
+
+Have a good winter break! Here are a few couple ideas to play with during the holidays.
+
+### Play some Christmas tunes
+- Download [iRealPro](https://www.irealpro.com/)
+- [White Christmas backing track](./whitechristmas.wav)
+- [More backing tracks for iReal Pro](https://www.irealb.com/forums/showthread.php?5105-Holiday)
+
+### Learn song from Berserk
+- Mix of D Major / D minor
+- 3 -> b3, 6 -> b6, 7 -> b7
+- [sheet music](./berserk.pdf)
+- DMaj7 = D F# A C#
+- BbMaj7 = Bb D F A
+- Improvise over these 2 chords, using the major scale over DMaj7 and the minor scale over BbMaj7
+
+### Composition exercise
+- Write out some 4 bar chord progressions and check out how they sound
+- Start by playing root position chords, and then get comfortable playing inversions
+
 ## November 4
 ### What Child Is This
 - [Oscar Peterson](https://www.youtube.com/watch?v=uDANk3P4LL8)
