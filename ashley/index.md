@@ -7,6 +7,7 @@ Have a good winter break! Here are a few couple ideas to play with during the ho
 ### Play some Christmas tunes
 - Download [iRealPro](https://www.irealpro.com/)
 - [White Christmas backing track](./whitechristmas.wav)
+- [no piano](./nopiano.wav)
 - [More backing tracks for iReal Pro](https://www.irealb.com/forums/showthread.php?5105-Holiday)
 
 ### Learn song from Berserk
