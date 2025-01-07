@@ -1,5 +1,17 @@
 # Mira's Mailbox
 
+## Jan 7
+### Ear Training
+- [Activity 1](./1.jpg)
+- [Activity 2](./2.jpg)
+- [Activity 2 (page 2)](./3.jpg)
+- [Activity 3](./4.jpg)
+- [Activity 3 (page 2)](./5.jpg)
+- [Activity 3 (page 3)](./6.jpg)
+
+### Maple Leaf Rag
+- [sheet music](./maple.pdf)
+
 ## October 7
 ### Immortals
 - [page 1](./p1.jpg)
