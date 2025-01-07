@@ -1,5 +1,13 @@
 # Ashley's Mailbox
 
+## Jan 7
+### Bach Invention #1 in C Major
+- [sheet music](./invention.pdf)
+- [recording by Glenn Gould](https://www.youtube.com/watch?v=xzU7xQmmXGE)
+
+### L'Amour Impitoyable
+- [transcription](./berserk.pdf)
+
 ## Dec 16
 
 Have a good winter break! Here are a few couple ideas to play with during the holidays.
