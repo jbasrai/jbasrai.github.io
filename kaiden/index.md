@@ -1,5 +1,8 @@
 # Kaiden's Mailbox
 
+## Jan 7
+- [golden hour retuned](./golden.mp3)
+
 ## Dec 12
 - [playing silent night with strict 3 beats per measure](./1.mp3)
 
