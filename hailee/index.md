@@ -3,6 +3,7 @@
 ## Jan 10
 - [eighth note rhythm practice](./eighth.pdf) - Practice clapping these rhythms. Feel free to use a metronome and to write in the rhythms.
 - [solfege practice](./solfege.pdf) - Practice singing this using either notes or solfege (do re mi, etc.). You can do this out of time.
+- ["Stop Me If I've Told You This Story"](https://www.youtube.com/watch?v=k1vC7qdETGA) - I listened to this song today and thought you might like it too
 
 ## Dec 12
 - [bridge](./1.mp3)
