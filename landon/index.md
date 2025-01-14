@@ -4,10 +4,6 @@
 ### Ode To Joy
 - [sheet music](./ode.jpg)
 
-### Circle of Life
-- [playalong track (slow)](./circle80.mp3)
-- [playalong track (regular speed)](./circle.mp3)
-
 ## Dec 12
 - Song is in good shape! Keep practicing singing the words while playing the melody, this will help us not get lost in the middle of a phrase
 
