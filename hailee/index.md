@@ -1,5 +1,8 @@
 # Hailee's Mailbox
 
+## Jan 23
+### No updates for this week
+
 ## Jan 10
 - [eighth note rhythm practice](./eighth.pdf) - Practice clapping these rhythms. Feel free to use a metronome and to write in the rhythms.
 - [solfege practice](./solfege.pdf) - Practice singing this using either numbers (1 2 3....) or solfege (do re mi...). You can do this out of time.
