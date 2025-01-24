@@ -1,5 +1,8 @@
 # Noah's Mailbox
 
+## Jan 23
+- [Lonely Boy playalong track (slowed down a bit)](./lonely.mp3)
+
 ## Dec 12
 ### Final thoughts leading into recital
 - Song is sounding great overall, bridge is the only section that can use some more work, spend some focused time on it so that it's as easy to play as the verse
