@@ -1,5 +1,8 @@
 # Hailee's Mailbox
 
+## Feb 3
+- [more solfege practice](./solfege2.pdf)
+
 ## Jan 23
 ### No updates for this week
 
