@@ -2,6 +2,8 @@
 
 ## Feb 3
 - [Animenz anime piano covers](https://www.youtube.com/@Animenzzz)
+- [Guren No Yumiya - English translation](https://genius.com/Genius-english-translations-linked-horizon-guren-no-yumiya-english-translation-lyrics)
+- [Shinunoga E-wa - piano version](https://www.youtube.com/watch?v=lRVJuPI5IXI)
 
 ## Jan 23
 - [L'Amour Impitoyable updated sheet music](./berserk.pdf)
