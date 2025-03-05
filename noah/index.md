@@ -1,5 +1,10 @@
 # Noah's Mailbox
 
+## Mar 5
+### Lonely Boy
+- [duet track, with melody](./duet2.mp3)
+- [duet track, no melody](./duet.mp3)
+
 ## Jan 23
 - [Lonely Boy playalong track (slowed down a bit)](./lonely.mp3)
 
