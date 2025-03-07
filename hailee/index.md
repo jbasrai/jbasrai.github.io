@@ -1,5 +1,9 @@
 # Hailee's Mailbox
 
+## Mar 7
+- [New Orleans Marching Band Music](https://leroyjonesjazz.bandcamp.com/album/new-orleans-brass-band-music-memories-of-the-fairview-hurricane-band)
+- [Steel drums](https://youtube.com/watch?v=gfHOr_y6acU)
+
 ## Feb 3
 - [more solfege practice](./solfege2.pdf) -- still review preview exercises
 
