@@ -2,7 +2,7 @@
 
 ## Mar 17
 - [Instructions for rhythm warmup](./rhythm.mp3)
-- [Practicing "Circle Of Life"](./circle.mp3)
+- [Practicing "Circle Of Life"](./clip.mp3)
 
 ## Mar 5
 - [Ode To Joy duet track](./ode.mp3)
