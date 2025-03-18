@@ -5,13 +5,13 @@
 #### Chord timing
 - [Chords](./chords.mp3)
 #### Melody
-B... A# B C B A# B G
-A A G# A C
-B E G A#
+- B... A# B C B A# B G
+- A A G# A C
+- B E G A#
 
-B... A# B D C B C F
-C B A# B E
-G D# E
+- B... A# B D C B C F
+- C B A# B E
+- G D# E
 
 
 ## Mar 5
