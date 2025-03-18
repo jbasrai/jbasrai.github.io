@@ -1,5 +1,16 @@
 # Noah's Mailbox
 
+## Mar 17
+### Hedwig's Theme -- Theme #2
+B... A# B C B A# B G
+A A G# A C
+B E G A#
+
+B... A# B D C B C F
+C B A# B E
+G D# E
+
+
 ## Mar 5
 ### Lonely Boy
 - [duet track, with melody](./duet2.mp3)
