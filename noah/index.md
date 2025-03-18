@@ -2,6 +2,9 @@
 
 ## Mar 17
 ### Hedwig's Theme -- Theme #2
+#### Chord timing
+- [Chords](./chords.mp3)
+#### Melody
 B... A# B C B A# B G
 A A G# A C
 B E G A#
