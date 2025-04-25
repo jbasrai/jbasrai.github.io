@@ -1,5 +1,9 @@
 # Kaiden's Mailbox
 
+## Apr 24
+- [Mockingbird melody](./mockingbird.mp3)
+- [Jurassic park intro chords](./jurassic intro.mp3)
+
 ## March 5
 - Check out this album: [New Orleans Brass Band Music](https://leroyjonesjazz.bandcamp.com/album/new-orleans-brass-band-music-memories-of-the-fairview-hurricane-band)
 
