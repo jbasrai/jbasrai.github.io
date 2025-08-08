@@ -1,5 +1,8 @@
 # Hailee's Mailbox
 
+## Aug 7
+- [Boogie Woogie Playlist](https://substack.com/@iverson/p-170130781) -- Check out this article about Boogie Woogie, which also contains a playlist of boogie woogie piano songs if you scroll down
+
 
 ## Mar 20
 - [Calypso drum track (slow)](./calypso-slow.mp3)
