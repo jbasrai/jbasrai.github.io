@@ -1,5 +1,8 @@
 # Noah's Mailbox
 
+## Sep 22
+- [Your Way's Better (slow chorus)](./better.mp3)
+
 ## Mar 17
 ### Hedwig's Theme -- Theme #2
 #### Chord timing
