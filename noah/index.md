@@ -1,5 +1,16 @@
 # Noah's Mailbox
 
+## Oct 7
+### Christmas Sweater
+- Polish up melody to chorus
+- Keep in mind that the phrases start on beat 2
+- Practice playing 1, 4, 5, 6 chords (Ab, Db, Eb, F-)
+- The chord progression for the beginning of the chorus is: Ab / Eb / F- / Db (4 beats each chord)
+
+### Your Way's Better
+- Practice keeping time with your LH (keeping a steady beat on 1 note)
+- I was thinking about it, and half notes might be an easier place to start: [example here](./halfnotes.mp3)
+
 ## Sep 22
 - [Your Way's Better (slow chorus)](./better.mp3)
 
