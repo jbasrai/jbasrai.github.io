@@ -1,4 +1,0 @@
-- [clara](/clara/)
-- [nate](/nate/)
-- [nathaniel](/nathaniel/)
-- [hailee](/hailee/)

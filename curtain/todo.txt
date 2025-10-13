@@ -1,7 +1,0 @@
-title text narrower on mobile
-flat book cover?
-publisher info
-scroll transition
-description
-	author + title
-stylize author name
