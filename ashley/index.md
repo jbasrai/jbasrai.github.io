@@ -1,5 +1,9 @@
 # Ashley's Mailbox
 
+## Oct 13
+- [Aura Lee](./auralee.pdf)
+- [Ode To Joy](./ode.png)
+
 ## Mar 17
 - [Moonlight Sonata (Beethoven)](./moonlight.jpg)
 
