@@ -1,5 +1,10 @@
 # Hailee's Mailbox
 
+## Nov 8
+- ["Where You Lead" backing track](./lead.mp3)
+- ["Little. St Nick" backing track](./nick.mp3)
+- ["Where You Lead" piano cover](https://youtube.com/watch?v=vJ17jjsELW0)
+
 ## Aug 7
 - [Boogie Woogie Playlist](https://substack.com/@iverson/p-170130781) -- Check out this article about Boogie Woogie, which also contains a playlist of boogie woogie piano songs if you scroll down
 
