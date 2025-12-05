@@ -1,5 +1,23 @@
 # Ashley's Mailbox
 
+## Dec 4
+### General thoughts
+- play songs in a way that avoid the middle of the keyboard
+- always keep experimenting with changing register, changing chord voicings, varying the melody
+
+### Kiri Ga Naikara
+- review B minor scale (2 sharps)
+- play triads in B minor scale
+- play seventh chords in B minor scale
+- play the 4 chords in the vamp: Bmi / GMaj / F#mi / Emi F#mi
+- add melody on top
+
+### Merry Xmas Mr. Lawrence
+- work on intro
+- keep the chord progression the same, but mess with taking out notes and different inversions
+- play around with moving the melody around
+- next lesson: do a performance run: play intro, 2 or 3 choruses, then outro
+
 ## Oct 13
 - [Aura Lee](./auralee.pdf)
 - [Ode To Joy](./ode.png)
