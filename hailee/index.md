@@ -1,5 +1,19 @@
 # Hailee's Mailbox
 
+## Dec 9
+
+### Little St Nick
+- [St Nick new backing track](./nick.mp3)
+- Include melody in intro
+- Add more pop into melody -- short accents + chord hits on target notes
+- Mix long sustained chords and short accented chords
+- Work on transition to bridge
+- Have a general plan for your solo
+- Plan out an ending 
+
+### White Christmas
+- review melody in G Major
+
 ## Nov 8
 - ["Where You Lead" backing track](./lead.mp3)
 - ["Little. St Nick" backing track](./nick.mp3)
