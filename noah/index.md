@@ -17,7 +17,7 @@
 - Expand the range when you feel comfortable
 
 ### Sonatina #1 by Clementi
-- [Here is a recording](https://youtube.com/watch?v=ZCdK5mIxrpg) - but find a way to listen to a recording at home and in the car
+- [Here is a recording](https://youtube.com/watch?v=ZCdK5mIxrpg) - See if you can find this recording on your streaming app and listen to it at home and in the car 
 - [Sheet music](./clementi.pdf) - Starts on page 2 of the PDF
 
 ## Dec 8
