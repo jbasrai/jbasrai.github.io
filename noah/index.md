@@ -5,11 +5,11 @@
 - Go to [this website](https://www.rhythmrandomizer.com/)
 - Click the [settings button](./r1.png)
 - [Select only half notes, quarter notes, and eighth notes](./r2.png)
-- Label the beat numbers
-- Click "start metronome" and practice clapping the rhythms
+- Say the rhythm out loud
+- Do it in time (you can use the "play metronome" button on the site)
 
 ### Note reading trainer
-- Go to [this website](https://www.rhythmrandomizer.com/)
+- Go to [this website](https://www.musictheory.net/exercises/note)
 - Click the [settings button](./n1.png)
 - [Click the treble range setting](./n2.png)
 - [To start with select B -> D as shown](./n3.png)
