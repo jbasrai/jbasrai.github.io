@@ -1,5 +1,25 @@
 # Noah's Mailbox
 
+## Jan 8
+### Rhythm trainer
+- Go to [this website](https://www.rhythmrandomizer.com/)
+- Click the [settings button](./r1.png)
+- [Select only half notes, quarter notes, and eighth notes](./r2.png)
+- Label the beat numbers
+- Click "start metronome" and practice clapping the rhythms
+
+### Note reading trainer
+- Go to [this website](https://www.rhythmrandomizer.com/)
+- Click the [settings button](./n1.png)
+- [Click the treble range setting](./n2.png)
+- [To start with select B -> D as shown](./n3.png)
+- Practice these 3 notes (play the note on your piano and then click the answer)
+- Expand the range when you feel comfortable
+
+### Sonatina #1 by Clementi
+- [Here is a recording](https://youtube.com/watch?v=ZCdK5mIxrpg) - but find a way to listen to a recording at home and in the car
+- [Sheet music](./clementi.pdf) - Starts on page 2 of the PDF
+
 ## Dec 8
 - [Backing track for Xmas Sweater](./noah xmas sweater.mp3)
 
