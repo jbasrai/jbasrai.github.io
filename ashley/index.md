@@ -1,5 +1,20 @@
 # Ashley's Mailbox
 
+## Jan 10
+### General thoughts
+- You can freely omit notes from chords. This can be useful when playing chords in a lower register, to make them less muddy. Also for avoiding the stuck keys in the middle of your piano.
+
+### Kiri Ga Naikawa
+- [Chord sheet](./kiri.png)
+- Work on playing a downtempo "lofi" version of the tune, playing block chords in LH and melody in RH
+
+### Merry Xmas Mr Lawrence
+- Review intro/outro ideas from today
+- Practice playing a full version of the tune from start to end
+
+### Entertainer
+- We'll start with this next week, review it a bit this week
+
 ## Dec 4
 ### General thoughts
 - play songs in a way that avoid the middle of the keyboard
