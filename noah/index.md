@@ -1,5 +1,17 @@
 # Noah's Mailbox
 
+## Jan 28
+### Note and rhythm training
+- See "Jan 8" below for detailed instructions
+
+### Come Sail Away
+- Practice playing RH melody and LH chords
+- Start with sustained chords, then add rhythm
+- Practice guitar hits + chorus in "Come Sail Away" section
+
+### Sonatina #1
+- Practice with metronome, start with a slow speed like 60, then work up
+
 ## Jan 8
 ### Rhythm trainer
 - Go to [this website](https://www.rhythmrandomizer.com/)
