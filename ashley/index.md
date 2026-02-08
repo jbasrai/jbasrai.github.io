@@ -1,5 +1,20 @@
 # Ashley's Mailbox
 
+## Feb 7
+### P71 Manual
+- [link to manual](./p71.pdf) - look at page 22
+
+### Merry Xmas Mr. Lawrence
+- Keep preparing performance version of tune, playing from start to end
+- Fix any trouble spots that have note mistakes or not feeling smooth
+- Rhythmic intentionality: keep a strong sense of the pulse
+- Have an emotional + musical plan: Know the feeling of each section and how that will inform your choice of volume, register, phrasing, etc.
+- Work on octave trills in the outro
+- Experiment with 2nd inversion 7th chords in intro
+
+### Kiri Ga Naikawa
+- Be able to play chords with melody
+
 ## Jan 10
 ### General thoughts
 - You can freely omit notes from chords. This can be useful when playing chords in a lower register, to make them less muddy. Also for avoiding the stuck keys in the middle of your piano.
