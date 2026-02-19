@@ -1,5 +1,19 @@
 # Noah's Mailbox
 
+## Feb 19
+### Come Sail Away
+- Shorten the first verse of the song
+- Play around with playing the verse in different registesr and using different LH textures. Decide how the first verse will be different from the second verse.
+- Practice the transition from the verse to the chorus
+- Practice playing the hits in the chorus with Aidan
+
+### Be My Escape
+- Review A Major scale: A B C# D E F# G#
+- Write down words to the chorus, and fill in the notes
+
+### Sonatina #1
+- Keep working on this
+
 ## Jan 28
 ### Note and rhythm training
 - See "Jan 8" below for detailed instructions
