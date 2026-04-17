@@ -1,5 +1,11 @@
 # Ashley's Mailbox
 
+## Apr 16
+### Kiri Ga Naikawa
+- Worked on finding inversions in the LH
+- Just jamming over the chords of the song, your LH can play the 1 & 5 of the chord, and the thumb can add rhythms
+- Playing over the whole tune -- you can change the texture in your LH by using different rhythms, adding bass to the chords
+
 ## Feb 7
 ### P71 Manual
 - [link to manual](./p71.pdf) - look at page 22
