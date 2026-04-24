@@ -1,5 +1,8 @@
 # Ashley's Mailbox
 
+## Apr 23
+- Great piano arrangement of "Kiri Ga Naikawa": [https://www.youtube.com/watch?v=O0LUk2C18Bs](https://www.youtube.com/watch?v=O0LUk2C18Bs)
+
 ## Apr 16
 ### Kiri Ga Naikawa
 - Worked on finding inversions in the LH
