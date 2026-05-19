@@ -1,7 +1,7 @@
 # Mira's Mailbox
 
 ## May 19
-- [Example performance arrangement of Sh-boob](./shboom.mp3) -- Might be nice to have a texture change at some point during the song, this example includes changing from a "quarter note chord texture" to "quarter note bass"
+- [Example performance arrangement of Sh-boom](./shboom.mp3) -- Might be nice to have a texture change at some point during the song, this example includes changing from a "quarter note chord texture" to "quarter note bass"
 
 ## Jan 7
 ### Ear Training
