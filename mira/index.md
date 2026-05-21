@@ -2,7 +2,7 @@
 
 ## May 19
 - [Example performance arrangement of Sh-boom](./shboom.mp3) -- Might be nice to have a texture change at some point during the song, this example includes changing from a "quarter note chord texture" to "quarter note bass"
-- [Don't draw the features](https://www.youtube.com/shorts/kz5b68rNkyw) & [Don't paint details](https://www.youtube.com/shorts/xxJURv4c35s)-- Related to when learning music or transcribing a solo, start with the big picture first before zooming into details
+- [Don't draw the features](https://www.youtube.com/shorts/kz5b68rNkyw) & [Don't paint details](https://www.youtube.com/shorts/xxJURv4c35s) & [Painting in few brushtrokes](https://www.youtube.com/shorts/qyE7v_Uyiaw) -- Related to when learning music or transcribing a solo, start with the big picture first before zooming into details
 - [Sax solo from "Sh-boom"](./shboom_solo.mp3)
 
 ## Jan 7
