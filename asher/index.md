@@ -1,5 +1,13 @@
 # Asher's Mailbox
 
+## June 5
+### Recital plan
+- attempt to learn melody in m33-44 and m89-end
+- [m33-m44 (just melody)](./m1.mp3)
+- [m33-m44 (both parts)](./m2.mp3)
+- [m89-end (just melody)](./m3.mp3)
+- [m89-end (both parts)](./m4.mp3)
+
 ## April 27
 - [City Gates PDF](./citygates.pdf)
 
