@@ -1,5 +1,23 @@
 # Mira's Mailbox
 
+## June 18
+### Sheet Music
+- [Clementi Sonatinas](./clementi.pdf)
+- [Losing My Mind](./losing1.pdf)
+- [Losing My Mind (accompaniment)](./losing2.pdf)
+
+### Lesson notes
+#### Clementi Sonatina #6
+- By all means learn the song, but analyze + improvise as you go along
+
+#### Losing My Mind
+- Use the sheet music as a reference, but don't plan on playing it literally as written
+- I like [this version](./sondheim.mp3) that Sondheim himself plays
+
+#### Sh-boom
+- Keep getting comfortable with stride texture
+- Continue learning sax solo
+
 ## May 19
 - [Example performance arrangement of Sh-boom](./shboom.mp3) -- Might be nice to have a texture change at some point during the song, this example includes changing from a "quarter note chord texture" to "quarter note bass"
 - [Don't draw the features](https://www.youtube.com/shorts/kz5b68rNkyw) & [Don't paint details](https://www.youtube.com/shorts/xxJURv4c35s) & [Painting in few brushtrokes](https://www.youtube.com/shorts/qyE7v_Uyiaw) -- Related to when learning music or transcribing a solo, start with the big picture first before zooming into details
