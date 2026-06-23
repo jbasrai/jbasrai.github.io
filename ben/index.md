@@ -1,5 +1,16 @@
 # Ben's Mailbox
 
+## June 22
+### Sonatina
+- Finish learning LH in the exposition of the song
+
+### Who Can It Be Now
+- Learn next phrase of solo
+- Review E minor scale (E F# G A B C# D)
+
+### We Are Young
+- Solidify chords in the chorus (F Maj, D mi, Bb Maj, C sus, C Maj)
+
 ## June 1
 - [Sonatina #1 by Muzio Clementi](https://www.youtube.com/watch?v=ZCdK5mIxrpg)
 
