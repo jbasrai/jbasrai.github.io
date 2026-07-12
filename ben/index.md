@@ -1,5 +1,15 @@
 # Ben's Mailbox
 
+## July 11
+### Sonatina
+- Practice LH with metronome, start at 100bpm, increase to 120bpm (eventual goal is 150bpm)
+
+### Who Can It Be Now
+- Learn last phrase of the solo (minus the lead in)
+
+### We Are Young
+- Keep reviewing chords
+
 ## June 22
 ### Sonatina
 - Finish learning LH in the exposition of the song
