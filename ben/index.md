@@ -1,7 +1,7 @@
 # Ben's Mailbox
 
 ## August 24
-- [Sail Away](./Sail\ Away.zip)
+- [Sail Away](./SailAway.zip)
 
 ## July 11
 ### Sonatina
