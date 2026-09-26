@@ -1,5 +1,8 @@
 # Ashley's Mailbox
 
+## Sep 25
+- [Clementi Sonatinas](./clementi.pdf)
+
 ## Sep 19
 - Check out this piano arrangement of "Kiri Ga Naikawa": [https://www.youtube.com/watch?v=O0LUk2C18Bs](https://www.youtube.com/watch?v=O0LUk2C18Bs). Notice that the chords and the melody are there, but just expressed in different ways.
 - Listen to these Sonatinas by Clementi (there are 6 of them, each containing ~3 movements), and choose one movement to start working on: [https://youtube.com/playlist?list=PL1gAgJIplj-mgsOmbyQQdqlecrkSWJmPy&si=vClkcfiDdTXLv7Pb](https://youtube.com/playlist?list=PL1gAgJIplj-mgsOmbyQQdqlecrkSWJmPy&si=vClkcfiDdTXLv7Pb)
