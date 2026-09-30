@@ -1,9 +1,5 @@
 # Christmas song ideas
 
-## Lists
-- [The 10 Best Original Christmas Songs](https://www.extended-cut.com/p/the-10-best-original-christmas-songs)
-## [Top 100 Christmas Songs](https://www.hipchristmas.com/lists/songs/index.php)
-
 ## My favorite Christmas albums
 - ["A Dave Brubeck Christmas" by Dave Brubeck](https://www.youtube.com/watch?v=Bx0Oy3jGovc&list=OLAK5uy_mSbwhnnzJfmrTH8ASiivW8ve6QK2AC43o&index=2)
 - ["Silent Night" by Justin Kauflin](https://justinkauflin1.bandcamp.com/album/silent-night)
@@ -13,3 +9,8 @@
 - ["Christmas Candy" by Justin Kauflin](https://justinkauflin1.bandcamp.com/album/christmas-candy)
 - ["Ella Fitzgerald's Christmas" by Ella Fitzgerald](https://www.youtube.com/playlist?list=PLM_dCCG1l6tJ6FrUWI0SDSC5NgGmPKbKf)
 - ["King of Christmas" by Nat King Cole](https://www.youtube.com/watch?v=yzGFPQQj9BQ&pp=ygUXbmF0IGtpbmcgY29sZSBjaHJpc3RtYXM%3D)
+
+## Other folks' top lists
+- [The 10 Best Original Christmas Songs](https://www.extended-cut.com/p/the-10-best-original-christmas-songs)
+## [Top 100 Christmas Songs](https://www.hipchristmas.com/lists/songs/index.php)
+
