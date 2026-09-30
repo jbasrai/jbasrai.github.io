@@ -1,11 +1,10 @@
-# My favorite Christmas albums
-## Spotify Playlist
-- [https://open.spotify.com/playlist/5OKdBXkGdLdHXcwfz6qiI7?si=I__zdYLVTy6H7pO5zr9sVA&pi=u-EU14aJhQSIu6](https://open.spotify.com/playlist/5OKdBXkGdLdHXcwfz6qiI7?si=I__zdYLVTy6H7pO5zr9sVA&pi=u-EU14aJhQSIu6)
+# Christmas song ideas
 
-## Apple Music Playlist
-- [https://music.apple.com/us/playlist/jauhars-favorite-christmas-album/pl.u-06oxDgysJJ1LkJ](https://music.apple.com/us/playlist/jauhars-favorite-christmas-album/pl.u-06oxDgysJJ1LkJ)
+## Lists
+- [The 10 Best Original Christmas Songs](https://www.extended-cut.com/p/the-10-best-original-christmas-songs)
+## [Top 100 Christmas Songs](https://www.hipchristmas.com/lists/songs/index.php)
 
-## Direct links
+## My favorite Christmas albums
 - ["A Dave Brubeck Christmas" by Dave Brubeck](https://www.youtube.com/watch?v=Bx0Oy3jGovc&list=OLAK5uy_mSbwhnnzJfmrTH8ASiivW8ve6QK2AC43o&index=2)
 - ["Silent Night" by Justin Kauflin](https://justinkauflin1.bandcamp.com/album/silent-night)
 - ["I Dream of Christmas" by Norah Jones](https://www.youtube.com/playlist?list=PLEz_mLoNZMeQOxbntGCny1EyD4kNQbduh)
