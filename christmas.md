@@ -11,6 +11,6 @@
 - ["King of Christmas" by Nat King Cole](https://www.youtube.com/watch?v=yzGFPQQj9BQ&pp=ygUXbmF0IGtpbmcgY29sZSBjaHJpc3RtYXM%3D)
 
 ## Other folks' top lists
-- [The 10 Best Original Christmas Songs](https://www.extended-cut.com/p/the-10-best-original-christmas-songs)
-## [Top 100 Christmas Songs](https://www.hipchristmas.com/lists/songs/index.php)
+- [Extended Cut's "The 10 Best Original Christmas Songs"](https://www.extended-cut.com/p/the-10-best-original-christmas-songs)
+- [Hip Christmas's "Top 100 Christmas Songs"](https://www.hipchristmas.com/lists/songs/index.php)
 
