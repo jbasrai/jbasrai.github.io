@@ -3,10 +3,11 @@
 ## Oct 28
 ### Scales
 - Scales wth metronome, maybe focus on LH this week
+- Pick some scale patterns to work on (like Hanon, or you can make up your own)
 
 ### Chord Exercises
-- Practice 3-6-2-5 chord progression
-- Practice 2-5-1 chord progression in other keys, especially F and Eb Major
+- Practice 3-6-2-5 chord progression, alternating between root position and 2nd inversion chords. Be able to play through progression with the first chord starting on both root position and 2nd inversion
+- Practice 2-5-1 chord progression in other keys (F and Eb Major will be useful for Misty)
 
 ### Misty
 - Make a playlist of various recordings of Misty, incl. Erroll Garner's original version, Sarah Vaughan, Samara Joy
