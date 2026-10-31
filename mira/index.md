@@ -1,5 +1,17 @@
 # Mira's Mailbox
 
+## Oct 28
+### Scales
+- Scales wth metronome, maybe focus on LH this week
+
+### Chord Exercises
+- Practice 3-6-2-5 chord progression
+- Practice 2-5-1 chord progression in other keys, especially F and Eb Major
+
+### Misty
+- Make a playlist of various recordings of Misty, incl. Erroll Garner's original version, Sarah Vaughan, Samara Joy
+- Practice playing over A section of Misty
+
 ## Sep 19
 ### Sonata Form lectures (3-part)
 - [Part 1](./p1.mp3)
