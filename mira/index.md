@@ -1,5 +1,19 @@
 # Mira's Mailbox
 
+## Nov 5
+### Scales
+- Warm up with C Major Scale (maybe focus on LH technique this week)
+- Be able to name all 7th chords contained in the C Major Scale
+
+### Chord Exercises
+- Practice 2-5-1 progression in a few keys, using the alternating root pos/2nd inv pattern -- will be good to know in C, F, and Eb for Misty
+- An extension of this progression is 3-6-2-5-(1 or 3), which also appears in the tune
+
+### Misty
+- Check out some other recordings of the tune
+- Practice playing over A section of Misty. A few ideas (from simple to harder): sing the melody by itself, play the chord roots, play the chord roots + sing, play the chord roots + RH chord tones (get comfortable in all inversions), do this + sing
+- Analyze [transcription](./misty.pdf) of the piano part in Laufey's version. Make sense of how the chords are constructed and how they move from one to another. Steal chord voicings you like.
+
 ## Oct 28
 ### Scales
 - Scales wth metronome, maybe focus on LH this week
